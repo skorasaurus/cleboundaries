@@ -1,16 +1,18 @@
-/* BASE.MSS CONTENTS
- * - Landuse & landcover
- * - Water areas
- * - Water ways
- * - Administrative Boundaries
- *
- */
-
 #wards[zoom>10] {
+   [type='1'],[type='2'] { polygon-fill: #7FC97F; }  
+  [type='3']      { polygon-fill: #7FC97F; }
+  [type='8']      { polygon-fill: #7FC97F; }
+  [type='9']      { polygon-fill: #E68A5C; }
+  [type='11']      { polygon-fill: #E68A5C; }
   [type='12']      { polygon-fill: @cemetery; }
-  [type='13']       { polygon-fill: @school; }
- 
+  [type='13']       { polygon-fill: #7FC97F; }
+  [type='14']       { polygon-fill: #435; }
+  [type='15']       { polygon-fill: #BEAED4; }
+  [type='16']       { polygon-fill: #444; }
+  [type='17']       { polygon-fill: #FDC086; }
 }
+
+
 
 /* ================================================================== */
 /* LANDUSE & LANDCOVER
@@ -19,7 +21,7 @@
 #land[zoom>=0][zoom<6],
 #shoreline_300[zoom>=6][zoom<10],
 #processed_p[zoom>=10] {
-  polygon-fill: @land;
+  polygon-fill: #fff;
   polygon-gamma: 0.75;
 }
 
@@ -37,7 +39,6 @@
   [type='industrial']    { polygon-fill: @industrial; }
   [type='park']          { polygon-fill: @park; }
   [type='parking']       { polygon-fill: @parking; }
-  [type='pedestrian']    { polygon-fill: @pedestrian_fill; }
   [type='pitch']         { polygon-fill: @sports; }
   [type='residential']   { polygon-fill: @residential; }
   [type='school']        { polygon-fill: @school; }

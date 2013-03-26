@@ -56,52 +56,6 @@ Map { font-directory: url(./fonts); }
 @industrial:        @land * 0.96;
 @parking:           #EEE;
 
-/* ================================================================== */
-/* ROAD COLORS
-/* ================================================================== */
-
-/* For each class of road there are three color variables:
- * - line: for lower zoomlevels when the road is represented by a
- *         single solid line.
- * - case: for higher zoomlevels, this color is for the road's
- *         casing (outline).
- * - fill: for higher zoomlevels, this color is for the road's
- *         inner fill (inline).
- */
-
-@motorway_line:     #E65C5C;
-@motorway_fill:     lighten(@motorway_line,10%);
-@motorway_case:     @motorway_line * 0.9;
-
-@trunk_line:        #E68A5C;
-@trunk_fill:        lighten(@trunk_line,10%);
-@trunk_case:        @trunk_line * 0.9;
-
-@primary_line:      #FFC859;
-@primary_fill:      lighten(@primary_line,10%);
-@primary_case:      @primary_line * 0.9;
-
-@secondary_line:    #FFE873;
-@secondary_fill:    lighten(@secondary_line,10%);
-@secondary_case:    @secondary_line * 0.9;
-
-@standard_line:     @land * 0.85;
-@standard_fill:     #fff;
-@standard_case:     @land * 0.9;
-
-@pedestrian_line:   @standard_line;
-@pedestrian_fill:   #FAFAF5;
-@pedestrian_case:   @land;
-
-@cycle_line:        @standard_line;
-@cycle_fill:        #FAFAF5;
-@cycle_case:        @land;
-
-@rail_line:         #999;
-@rail_fill:         #fff;
-@rail_case:         @land;
-
-@aeroway:           #ddd;
 
 /* ================================================================== */
 /* BOUNDARY COLORS
