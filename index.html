@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js'></script>
+    <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet' />
+    <style>
+      body {
+        margin:0;
+        padding:0;
+      }
+      #mapsetup {
+        position:absolute;
+        top:0;
+        bottom:0;
+        width:100%;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <style>
+      /*SIDEBAR - where the list of markers will be */
+      /*from http://mapbox.com/mapbox.js/example/timeline/ */
+      #sidebar {
+        position:absolute;
+        top:0px;
+        left:0px;
+        background:#fff;
+        z-index:999;
+        overflow:auto;
+        opacity:0.6;
+      }
+      #sidebar:hover {
+        opacity:1;
+      }
+      #location-list {
+        padding:10px;
+        right:15px;
+      }
+      #location-list a {
+        font-size:10px;
+        text-decoration:none;
+      }
+    </style>
+    <div id='sidebar'>
+      <div id='location-list'>
+        
+<h2> Cleveland Proposed boundaries</h2> <a href="https://github.com/skorasaurus/cleboundaries/">https://github.com/skorasaurus/cleboundaries/</a>
+
+      </div>
+    </div>
+    <div id='mapsetup'></div>
+    <script>
+      // http://mapbox.com/mapbox.js/example/interactive-layer-mapbox-layer/
+      var map = mapbox.map('mapsetup');
+      map.addLayer(mapbox.layer().id('skorasaurus.boundaries-proposed'));
+
+      // streets
+      map.addLayer(mapbox.layer().id('skorasaurus.map-kyn92w3i'));
+
+      map.zoom(12).center({
+        lat: 41.5010,
+        lon: -81.6922
+      });
+      map.setZoomRange(10, 18);
+      
+       map.ui.attribution.add()
+        .content('<a href="http://mapbox.com/about/maps">MapBox Terms &amp; Feedback</a> - <a href="http://www.openstreetmap.org/">&copy; OpenStreetMap contributors</a>');
+    </script>
+  </body>
+
+</html>
