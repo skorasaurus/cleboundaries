@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-7571' action='modify' visible='true' lat='41.449031323440416' lon='-81.59108399250258' />
+  <node id='-7569' action='modify' visible='true' lat='41.44904650582241' lon='-81.58404619921046' />
+  <node id='-7567' action='modify' visible='true' lat='41.45073394774505' lon='-81.58408411220898' />
+  <node id='-7565' action='modify' visible='true' lat='41.45073394774505' lon='-81.58454052182874' />
+  <node id='-7563' action='modify' visible='true' lat='41.4529694426881' lon='-81.58466860771773' />
+  <node id='-7561' action='modify' visible='true' lat='41.45290033231271' lon='-81.575516897444' />
+  <node id='-7559' action='modify' visible='true' lat='41.45561243795158' lon='-81.57555322040156' />
+  <node id='-7557' action='modify' visible='true' lat='41.46443222304203' lon='-81.57561842177581' />
+  <node id='-7555' action='modify' visible='true' lat='41.46425639245643' lon='-81.58458460451037' />
+  <node id='-7553' action='modify' visible='true' lat='41.468346357575676' lon='-81.5846784514452' />
+  <node id='-7514' action='modify' visible='true' lat='41.484410750958034' lon='-81.59185208414472' />
+  <node id='-7512' action='modify' visible='true' lat='41.484410750958034' lon='-81.5983396208823' />
+  <node id='-7510' action='modify' visible='true' lat='41.48348946332505' lon='-81.59828424911045' />
+  <node id='-7508' action='modify' visible='true' lat='41.48319588195507' lon='-81.59747742326768' />
+  <node id='-7506' action='modify' visible='true' lat='41.48332110774277' lon='-81.5935528791678' />
+  <node id='-7504' action='modify' visible='true' lat='41.48252736323257' lon='-81.59281936370752' />
+  <node id='-7502' action='modify' visible='true' lat='41.48246630555983' lon='-81.59056991629599' />
+  <node id='-7500' action='modify' visible='true' lat='41.479640319947165' lon='-81.59045861058787' />
+  <node id='-7498' action='modify' visible='true' lat='41.481582791074125' lon='-81.60788465165506' />
+  <node id='-7496' action='modify' visible='true' lat='41.48222126811914' lon='-81.61463034772186' />
+  <node id='-7494' action='modify' visible='true' lat='41.482514345531804' lon='-81.61684719444627' />
+  <node id='-7492' action='modify' visible='true' lat='41.48268530674373' lon='-81.61776001368573' />
+  <node id='-7490' action='modify' visible='true' lat='41.48832258374241' lon='-81.61500245892698' />
+  <node id='-7488' action='modify' visible='true' lat='41.48834700461107' lon='-81.62455446025417' />
+  <node id='-7486' action='modify' visible='true' lat='41.48619793293046' lon='-81.62448925887992' />
+  <node id='-7484' action='modify' visible='true' lat='41.48553566871677' lon='-81.62321998428747' />
+  <node id='-7482' action='modify' visible='true' lat='41.48199439300708' lon='-81.62608884475434' />
+  <node id='-7480' action='modify' visible='true' lat='41.4820521136474' lon='-81.62032608410249' />
+  <node id='-7478' action='modify' visible='true' lat='41.478839844484476' lon='-81.62157090111705' />
+  <node id='-7476' action='modify' visible='true' lat='41.47889377737386' lon='-81.62000063939564' />
+  <node id='-7474' action='modify' visible='true' lat='41.474896131381776' lon='-81.62164345058005' />
+  <node id='-7472' action='modify' visible='true' lat='41.47194268323766' lon='-81.62157265581214' />
+  <node id='-7470' action='modify' visible='true' lat='41.47100208620151' lon='-81.61694420148719' />
+  <node id='-7468' action='modify' visible='true' lat='41.470601549613754' lon='-81.61709138441655' />
+  <node id='-7466' action='modify' visible='true' lat='41.470210707606434' lon='-81.61725438785217' />
+  <node id='-7464' action='modify' visible='true' lat='41.46889159843544' lon='-81.6157547562445' />
+  <node id='-7462' action='modify' visible='true' lat='41.4684274610476' lon='-81.6149397390664' />
+  <node id='-7460' action='modify' visible='true' lat='41.46816254836638' lon='-81.6147409548617' />
+  <node id='-7458' action='modify' visible='true' lat='41.46647869809151' lon='-81.61464219312572' />
+  <node id='-7456' action='modify' visible='true' lat='41.4665519853659' lon='-81.61304475945667' />
+  <node id='-7454' action='modify' visible='true' lat='41.46686956259768' lon='-81.61174073197172' />
+  <node id='-7452' action='modify' visible='true' lat='41.46618554816557' lon='-81.6117081312846' />
+  <node id='-7445' action='modify' visible='true' lat='41.45909665626146' lon='-81.61168046537455' />
   <node id='-7301' action='modify' visible='true' lat='41.51385865333748' lon='-81.66221153141987' />
   <node id='-7297' action='modify' visible='true' lat='41.51658513562966' lon='-81.65553510828197' />
   <node id='-7295' action='modify' visible='true' lat='41.517931871690394' lon='-81.65188383132416' />
@@ -1513,6 +1556,174 @@
   <node id='-2715' timestamp='2010-10-03T09:18:28Z' visible='true' lat='41.4187241' lon='-81.8545693' />
   <node id='-2713' timestamp='2010-10-03T09:18:48Z' visible='true' lat='41.4188514' lon='-81.8552437' />
   <node id='-2711' timestamp='2009-07-29T14:55:03Z' visible='true' lat='41.419033' lon='-81.85595' />
+  <way id='-7577' action='modify' visible='true'>
+    <nd ref='-3857' />
+    <nd ref='-3859' />
+    <nd ref='-3861' />
+    <nd ref='-3863' />
+    <nd ref='-3865' />
+    <nd ref='-3867' />
+    <nd ref='-3869' />
+    <nd ref='-3871' />
+    <nd ref='-3873' />
+    <nd ref='-3875' />
+    <nd ref='-3877' />
+    <nd ref='-3879' />
+    <nd ref='-3881' />
+    <nd ref='-3883' />
+    <nd ref='-3885' />
+    <nd ref='-3887' />
+    <nd ref='-3889' />
+    <nd ref='-3891' />
+    <nd ref='-3893' />
+    <nd ref='-3895' />
+    <nd ref='-3897' />
+    <nd ref='-3899' />
+    <nd ref='-3901' />
+    <nd ref='-3903' />
+    <nd ref='-3905' />
+    <nd ref='-3907' />
+    <nd ref='-3909' />
+    <nd ref='-3911' />
+    <nd ref='-3913' />
+    <nd ref='-3915' />
+    <nd ref='-3917' />
+    <nd ref='-3919' />
+    <nd ref='-3921' />
+    <nd ref='-3923' />
+    <nd ref='-3925' />
+    <nd ref='-3927' />
+    <nd ref='-3929' />
+    <nd ref='-3931' />
+    <nd ref='-3933' />
+    <tag k='admin_level' v='8' />
+    <tag k='boundary' v='administrative' />
+    <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
+  </way>
+  <way id='-7574' action='modify' visible='true'>
+    <nd ref='-3687' />
+    <nd ref='-3689' />
+    <nd ref='-3691' />
+    <nd ref='-3693' />
+    <nd ref='-3695' />
+    <nd ref='-3697' />
+    <nd ref='-3699' />
+    <nd ref='-3701' />
+    <nd ref='-3703' />
+    <nd ref='-3705' />
+    <nd ref='-3707' />
+    <nd ref='-3709' />
+    <nd ref='-3711' />
+    <nd ref='-3713' />
+    <nd ref='-3715' />
+    <nd ref='-3717' />
+    <nd ref='-3719' />
+    <nd ref='-3721' />
+    <nd ref='-3723' />
+    <nd ref='-3725' />
+    <nd ref='-3727' />
+    <nd ref='-3729' />
+    <nd ref='-3731' />
+    <nd ref='-3733' />
+    <nd ref='-3735' />
+    <nd ref='-3737' />
+    <tag k='admin_level' v='8' />
+    <tag k='boundary' v='administrative' />
+    <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
+  </way>
+  <way id='-7554' action='modify' visible='true'>
+    <nd ref='-3687' />
+    <nd ref='-7553' />
+    <nd ref='-7555' />
+    <nd ref='-7557' />
+    <nd ref='-7559' />
+    <nd ref='-7561' />
+    <nd ref='-7563' />
+    <nd ref='-7565' />
+    <nd ref='-7567' />
+    <nd ref='-7569' />
+    <nd ref='-7571' />
+    <nd ref='-3857' />
+  </way>
+  <way id='-7524' action='modify' visible='true'>
+    <nd ref='-3641' />
+    <nd ref='-3643' />
+    <nd ref='-3645' />
+    <nd ref='-3647' />
+    <nd ref='-3649' />
+    <nd ref='-3651' />
+    <nd ref='-3653' />
+    <nd ref='-3655' />
+    <nd ref='-3657' />
+    <nd ref='-3659' />
+    <nd ref='-3661' />
+    <nd ref='-3663' />
+    <nd ref='-3665' />
+    <nd ref='-3667' />
+    <nd ref='-3669' />
+    <nd ref='-3671' />
+    <nd ref='-3673' />
+    <nd ref='-3675' />
+    <nd ref='-3677' />
+    <nd ref='-3679' />
+    <nd ref='-3681' />
+    <nd ref='-3683' />
+    <nd ref='-3685' />
+    <nd ref='-3687' />
+    <tag k='admin_level' v='8' />
+    <tag k='boundary' v='administrative' />
+    <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
+  </way>
+  <way id='-7449' action='modify' visible='true'>
+    <nd ref='-5125' />
+    <nd ref='-5127' />
+    <nd ref='-5129' />
+    <nd ref='-5131' />
+    <nd ref='-5133' />
+    <nd ref='-5135' />
+    <nd ref='-5137' />
+    <nd ref='-5139' />
+    <nd ref='-5141' />
+    <nd ref='-5143' />
+    <nd ref='-5145' />
+  </way>
+  <way id='-7446' action='modify' visible='true'>
+    <nd ref='-5125' />
+    <nd ref='-7445' />
+    <nd ref='-7452' />
+    <nd ref='-7454' />
+    <nd ref='-7456' />
+    <nd ref='-7458' />
+    <nd ref='-7460' />
+    <nd ref='-7462' />
+    <nd ref='-7464' />
+    <nd ref='-7466' />
+    <nd ref='-7468' />
+    <nd ref='-7470' />
+    <nd ref='-7472' />
+    <nd ref='-7474' />
+    <nd ref='-7476' />
+    <nd ref='-7478' />
+    <nd ref='-7480' />
+    <nd ref='-7482' />
+    <nd ref='-7484' />
+    <nd ref='-7486' />
+    <nd ref='-7488' />
+    <nd ref='-7490' />
+    <nd ref='-7492' />
+    <nd ref='-7494' />
+    <nd ref='-7496' />
+    <nd ref='-7498' />
+    <nd ref='-7500' />
+    <nd ref='-7502' />
+    <nd ref='-7504' />
+    <nd ref='-7506' />
+    <nd ref='-7508' />
+    <nd ref='-7510' />
+    <nd ref='-7512' />
+    <nd ref='-7514' />
+    <nd ref='-3641' />
+  </way>
   <way id='-7319' action='modify' visible='true'>
     <nd ref='-6553' />
     <nd ref='-6555' />
@@ -2312,16 +2523,6 @@
     <nd ref='-5121' />
     <nd ref='-5123' />
     <nd ref='-5125' />
-    <nd ref='-5127' />
-    <nd ref='-5129' />
-    <nd ref='-5131' />
-    <nd ref='-5133' />
-    <nd ref='-5135' />
-    <nd ref='-5137' />
-    <nd ref='-5139' />
-    <nd ref='-5141' />
-    <nd ref='-5143' />
-    <nd ref='-5145' />
   </way>
   <way id='-5361' action='modify' visible='true'>
     <nd ref='-5109' />
@@ -2868,7 +3069,7 @@
     <tag k='created_by' v='polyshp2osm-multipoly' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
   </way>
-  <way id='-5331' timestamp='2011-02-02T20:59:21Z' visible='true'>
+  <way id='-5331' action='modify' timestamp='2011-02-02T20:59:21Z' visible='true'>
     <nd ref='-3795' />
     <nd ref='-3797' />
     <nd ref='-3799' />
@@ -2901,44 +3102,6 @@
     <nd ref='-3853' />
     <nd ref='-3855' />
     <nd ref='-3857' />
-    <nd ref='-3859' />
-    <nd ref='-3861' />
-    <nd ref='-3863' />
-    <nd ref='-3865' />
-    <nd ref='-3867' />
-    <nd ref='-3869' />
-    <nd ref='-3871' />
-    <nd ref='-3873' />
-    <nd ref='-3875' />
-    <nd ref='-3877' />
-    <nd ref='-3879' />
-    <nd ref='-3881' />
-    <nd ref='-3883' />
-    <nd ref='-3885' />
-    <nd ref='-3887' />
-    <nd ref='-3889' />
-    <nd ref='-3891' />
-    <nd ref='-3893' />
-    <nd ref='-3895' />
-    <nd ref='-3897' />
-    <nd ref='-3899' />
-    <nd ref='-3901' />
-    <nd ref='-3903' />
-    <nd ref='-3905' />
-    <nd ref='-3907' />
-    <nd ref='-3909' />
-    <nd ref='-3911' />
-    <nd ref='-3913' />
-    <nd ref='-3915' />
-    <nd ref='-3917' />
-    <nd ref='-3919' />
-    <nd ref='-3921' />
-    <nd ref='-3923' />
-    <nd ref='-3925' />
-    <nd ref='-3927' />
-    <nd ref='-3929' />
-    <nd ref='-3931' />
-    <nd ref='-3933' />
     <tag k='admin_level' v='8' />
     <tag k='boundary' v='administrative' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
@@ -2985,7 +3148,7 @@
     <tag k='boundary' v='administrative' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
   </way>
-  <way id='-5325' timestamp='2011-02-01T03:56:09Z' visible='true'>
+  <way id='-5325' action='modify' timestamp='2011-02-01T03:56:09Z' visible='true'>
     <nd ref='-3561' />
     <nd ref='-3631' />
     <nd ref='-3633' />
@@ -2993,54 +3156,6 @@
     <nd ref='-3637' />
     <nd ref='-3639' />
     <nd ref='-3641' />
-    <nd ref='-3643' />
-    <nd ref='-3645' />
-    <nd ref='-3647' />
-    <nd ref='-3649' />
-    <nd ref='-3651' />
-    <nd ref='-3653' />
-    <nd ref='-3655' />
-    <nd ref='-3657' />
-    <nd ref='-3659' />
-    <nd ref='-3661' />
-    <nd ref='-3663' />
-    <nd ref='-3665' />
-    <nd ref='-3667' />
-    <nd ref='-3669' />
-    <nd ref='-3671' />
-    <nd ref='-3673' />
-    <nd ref='-3675' />
-    <nd ref='-3677' />
-    <nd ref='-3679' />
-    <nd ref='-3681' />
-    <nd ref='-3683' />
-    <nd ref='-3685' />
-    <nd ref='-3687' />
-    <nd ref='-3689' />
-    <nd ref='-3691' />
-    <nd ref='-3693' />
-    <nd ref='-3695' />
-    <nd ref='-3697' />
-    <nd ref='-3699' />
-    <nd ref='-3701' />
-    <nd ref='-3703' />
-    <nd ref='-3705' />
-    <nd ref='-3707' />
-    <nd ref='-3709' />
-    <nd ref='-3711' />
-    <nd ref='-3713' />
-    <nd ref='-3715' />
-    <nd ref='-3717' />
-    <nd ref='-3719' />
-    <nd ref='-3721' />
-    <nd ref='-3723' />
-    <nd ref='-3725' />
-    <nd ref='-3727' />
-    <nd ref='-3729' />
-    <nd ref='-3731' />
-    <nd ref='-3733' />
-    <nd ref='-3735' />
-    <nd ref='-3737' />
     <tag k='admin_level' v='8' />
     <tag k='boundary' v='administrative' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
@@ -3378,6 +3493,30 @@
     <tag k='boundary' v='administrative' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
   </way>
+  <relation id='-7583' action='modify' visible='true'>
+    <member type='way' ref='-5327' role='outer' />
+    <member type='way' ref='-7574' role='outer' />
+    <member type='way' ref='-7554' role='outer' />
+    <member type='way' ref='-5331' role='outer' />
+    <member type='way' ref='-5329' role='outer' />
+    <tag k='name' v='1' />
+    <tag k='type' v='multipolygon' />
+    <tag k='ward' v='1' />
+  </relation>
+  <relation id='-7552' action='modify' visible='true'>
+    <member type='way' ref='-5321' role='outer' />
+    <member type='way' ref='-5323' role='outer' />
+    <member type='way' ref='-5325' role='outer' />
+    <member type='way' ref='-7446' role='outer' />
+    <member type='way' ref='-5363' role='outer' />
+    <member type='way' ref='-5359' role='outer' />
+    <member type='way' ref='-7319' role='outer' />
+    <member type='way' ref='-7271' role='outer' />
+    <member type='way' ref='-7314' role='outer' />
+    <tag k='name' v='6' />
+    <tag k='type' v='multipolygon' />
+    <tag k='ward' v='6' />
+  </relation>
   <relation id='-7442' action='modify' visible='true'>
     <member type='way' ref='-6117' role='outer' />
     <member type='way' ref='-5315' role='outer' />
@@ -3513,6 +3652,7 @@
     <member type='way' ref='-5337' role='outer' />
     <member type='way' ref='-5335' role='outer' />
     <member type='way' ref='-5333' role='outer' />
+    <member type='way' ref='-7449' role='outer' />
     <member type='way' ref='-5363' role='outer' />
     <member type='way' ref='-5361' role='outer' />
     <member type='way' ref='-6459' role='outer' />
@@ -3546,9 +3686,12 @@
     <member type='way' ref='-5321' role='outer' />
     <member type='way' ref='-5323' role='outer' />
     <member type='way' ref='-5325' role='outer' />
+    <member type='way' ref='-7524' role='outer' />
+    <member type='way' ref='-7574' role='outer' />
     <member type='way' ref='-5327' role='outer' />
     <member type='way' ref='-5329' role='outer' />
     <member type='way' ref='-5331' role='outer' />
+    <member type='way' ref='-7577' role='outer' />
     <member type='way' ref='-5367' role='outer' />
     <member type='way' ref='-5333' role='outer' />
     <member type='way' ref='-5335' role='outer' />
