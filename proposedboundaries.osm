@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-7609' action='modify' visible='true' lat='41.46687991068414' lon='-81.60839460323405' />
+  <node id='-7607' action='modify' visible='true' lat='41.467490631660375' lon='-81.60849240529542' />
+  <node id='-7605' action='modify' visible='true' lat='41.4670997708983' lon='-81.60702537437487' />
+  <node id='-7603' action='modify' visible='true' lat='41.46359779058633' lon='-81.60712701513474' />
+  <node id='-7601' action='modify' visible='true' lat='41.46383963668436' lon='-81.5992431740425' />
+  <node id='-7599' action='modify' visible='true' lat='41.4546452184272' lon='-81.59941109227931' />
+  <node id='-7597' action='modify' visible='true' lat='41.4546797726946' lon='-81.59788964926152' />
+  <node id='-7595' action='modify' visible='true' lat='41.45474888117417' lon='-81.59685230174938' />
+  <node id='-7593' action='modify' visible='true' lat='41.45482897848313' lon='-81.59232100499432' />
+  <node id='-7591' action='modify' visible='true' lat='41.454413607753814' lon='-81.59236990602501' />
+  <node id='-7589' action='modify' visible='true' lat='41.45432808992053' lon='-81.59119628128856' />
+  <node id='-7587' action='modify' visible='true' lat='41.45649043480137' lon='-81.59124518231924' />
+  <node id='-7585' action='modify' visible='true' lat='41.45650265123433' lon='-81.5846323563895' />
   <node id='-7571' action='modify' visible='true' lat='41.449031323440416' lon='-81.59108399250258' />
   <node id='-7569' action='modify' visible='true' lat='41.44904650582241' lon='-81.58404619921046' />
   <node id='-7567' action='modify' visible='true' lat='41.45073394774505' lon='-81.58408411220898' />
@@ -1556,6 +1569,69 @@
   <node id='-2715' timestamp='2010-10-03T09:18:28Z' visible='true' lat='41.4187241' lon='-81.8545693' />
   <node id='-2713' timestamp='2010-10-03T09:18:48Z' visible='true' lat='41.4188514' lon='-81.8552437' />
   <node id='-2711' timestamp='2009-07-29T14:55:03Z' visible='true' lat='41.419033' lon='-81.85595' />
+  <way id='-7644' action='modify' visible='true'>
+    <nd ref='-7454' />
+    <nd ref='-7456' />
+    <nd ref='-7458' />
+    <nd ref='-7460' />
+    <nd ref='-7462' />
+    <nd ref='-7464' />
+    <nd ref='-7466' />
+    <nd ref='-7468' />
+    <nd ref='-7470' />
+    <nd ref='-7472' />
+    <nd ref='-7474' />
+    <nd ref='-7476' />
+    <nd ref='-7478' />
+    <nd ref='-7480' />
+    <nd ref='-7482' />
+    <nd ref='-7484' />
+    <nd ref='-7486' />
+    <nd ref='-7488' />
+    <nd ref='-7490' />
+    <nd ref='-7492' />
+    <nd ref='-7494' />
+    <nd ref='-7496' />
+    <nd ref='-7498' />
+    <nd ref='-7500' />
+    <nd ref='-7502' />
+    <nd ref='-7504' />
+    <nd ref='-7506' />
+    <nd ref='-7508' />
+    <nd ref='-7510' />
+    <nd ref='-7512' />
+    <nd ref='-7514' />
+    <nd ref='-3641' />
+  </way>
+  <way id='-7612' action='modify' visible='true'>
+    <nd ref='-7555' />
+    <nd ref='-7557' />
+    <nd ref='-7559' />
+    <nd ref='-7561' />
+    <nd ref='-7563' />
+    <nd ref='-7565' />
+    <nd ref='-7567' />
+    <nd ref='-7569' />
+    <nd ref='-7571' />
+    <nd ref='-3857' />
+  </way>
+  <way id='-7586' action='modify' visible='true'>
+    <nd ref='-7555' />
+    <nd ref='-7585' />
+    <nd ref='-7587' />
+    <nd ref='-7589' />
+    <nd ref='-7591' />
+    <nd ref='-7593' />
+    <nd ref='-7595' />
+    <nd ref='-7597' />
+    <nd ref='-7599' />
+    <nd ref='-7601' />
+    <nd ref='-7603' />
+    <nd ref='-7605' />
+    <nd ref='-7607' />
+    <nd ref='-7609' />
+    <nd ref='-7454' />
+  </way>
   <way id='-7577' action='modify' visible='true'>
     <nd ref='-3857' />
     <nd ref='-3859' />
@@ -1635,15 +1711,6 @@
     <nd ref='-3687' />
     <nd ref='-7553' />
     <nd ref='-7555' />
-    <nd ref='-7557' />
-    <nd ref='-7559' />
-    <nd ref='-7561' />
-    <nd ref='-7563' />
-    <nd ref='-7565' />
-    <nd ref='-7567' />
-    <nd ref='-7569' />
-    <nd ref='-7571' />
-    <nd ref='-3857' />
   </way>
   <way id='-7524' action='modify' visible='true'>
     <nd ref='-3641' />
@@ -1692,37 +1759,6 @@
     <nd ref='-7445' />
     <nd ref='-7452' />
     <nd ref='-7454' />
-    <nd ref='-7456' />
-    <nd ref='-7458' />
-    <nd ref='-7460' />
-    <nd ref='-7462' />
-    <nd ref='-7464' />
-    <nd ref='-7466' />
-    <nd ref='-7468' />
-    <nd ref='-7470' />
-    <nd ref='-7472' />
-    <nd ref='-7474' />
-    <nd ref='-7476' />
-    <nd ref='-7478' />
-    <nd ref='-7480' />
-    <nd ref='-7482' />
-    <nd ref='-7484' />
-    <nd ref='-7486' />
-    <nd ref='-7488' />
-    <nd ref='-7490' />
-    <nd ref='-7492' />
-    <nd ref='-7494' />
-    <nd ref='-7496' />
-    <nd ref='-7498' />
-    <nd ref='-7500' />
-    <nd ref='-7502' />
-    <nd ref='-7504' />
-    <nd ref='-7506' />
-    <nd ref='-7508' />
-    <nd ref='-7510' />
-    <nd ref='-7512' />
-    <nd ref='-7514' />
-    <nd ref='-3641' />
   </way>
   <way id='-7319' action='modify' visible='true'>
     <nd ref='-6553' />
@@ -3493,10 +3529,31 @@
     <tag k='boundary' v='administrative' />
     <tag k='source' v='TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)' />
   </way>
+  <relation id='-7654' action='modify' visible='true'>
+    <member type='way' ref='-7644' role='outer' />
+    <member type='way' ref='-7586' role='outer' />
+    <member type='way' ref='-7554' role='outer' />
+    <member type='way' ref='-7524' role='outer' />
+    <tag k='name' v='4' />
+    <tag k='type' v='multipolygon' />
+    <tag k='ward' v='4' />
+  </relation>
+  <relation id='-7650' action='modify' visible='true'>
+    <member type='way' ref='-7612' role='outer' />
+    <member type='way' ref='-7577' role='outer' />
+    <member type='way' ref='-5367' role='outer' />
+    <member type='way' ref='-7449' role='outer' />
+    <member type='way' ref='-7446' role='outer' />
+    <member type='way' ref='-7586' role='outer' />
+    <tag k='name' v='2' />
+    <tag k='type' v='multipolygon' />
+    <tag k='ward' v='2' />
+  </relation>
   <relation id='-7583' action='modify' visible='true'>
     <member type='way' ref='-5327' role='outer' />
     <member type='way' ref='-7574' role='outer' />
     <member type='way' ref='-7554' role='outer' />
+    <member type='way' ref='-7612' role='outer' />
     <member type='way' ref='-5331' role='outer' />
     <member type='way' ref='-5329' role='outer' />
     <tag k='name' v='1' />
@@ -3507,6 +3564,7 @@
     <member type='way' ref='-5321' role='outer' />
     <member type='way' ref='-5323' role='outer' />
     <member type='way' ref='-5325' role='outer' />
+    <member type='way' ref='-7644' role='outer' />
     <member type='way' ref='-7446' role='outer' />
     <member type='way' ref='-5363' role='outer' />
     <member type='way' ref='-5359' role='outer' />
