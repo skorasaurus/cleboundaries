@@ -1,8 +1,12 @@
 #wards[zoom>10] {
-   [type='1'],[type='2'] { polygon-fill: #7FC97F; }  
-  [type='3']      { polygon-fill: #7FC97F; }
-  [type='8']      { polygon-fill: #7FC97F; }
-  [type='9']      { polygon-fill: #E68A5C; }
+   [type='1'],[type='3'] { polygon-fill: #7FC97F; }  
+  [type='2']   { polygon-fill: #E41A1C ; }
+    [type='4'] { polygon-fill: #984EA3; }
+    [type='5'] { polygon-fill:  #435; } 
+  [type='6'] { polygon-fill: #377EB8; }  
+    [type='8'], [type='7'] { polygon-fill: #E41A1C; }
+  [type='9'] { polygon-fill: #BEAED4; }  
+ [type='10']    { polygon-fill: #E68A5C; }
   [type='11']      { polygon-fill: #E68A5C; }
   [type='12']      { polygon-fill: @cemetery; }
   [type='13']       { polygon-fill: #7FC97F; }
@@ -10,13 +14,16 @@
   [type='15']       { polygon-fill: #BEAED4; }
   [type='16']       { polygon-fill: #444; }
   [type='17']       { polygon-fill: #FDC086; }
+
 }
 
-
+/* 5 and 7 and 3 must be diff */ /* 6 and 9 */
 
 /* ================================================================== */
 /* LANDUSE & LANDCOVER
 /* ================================================================== */
+
+
 
 #land[zoom>=0][zoom<6],
 #shoreline_300[zoom>=6][zoom<10],
@@ -48,6 +55,10 @@
   [type='wood']          { polygon-fill: @wooded; }
 }
 
+#ward_label{
+  text-name:'[ward]';
+  text-size: 40;
+  }
 
 
 /* ---- BUILDINGS ---- */

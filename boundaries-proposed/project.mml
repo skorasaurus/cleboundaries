@@ -11,7 +11,10 @@
     11
   ],
   "format": "png",
-  "interactivity": false,
+  "interactivity": {
+    "layer": "wards",
+    "template_teaser": "Ward in 2014: {{{type}}} \n\n\n\nArea (SQ FT): {{{area}}}\n\nPopulation: To add"
+  },
   "minzoom": 11,
   "maxzoom": 17,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
@@ -616,27 +619,35 @@
     },
     {
       "Datasource": {
-        "dbname": "cleveosm2pgsql",
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34",
+        "dbname": "boundariesnew",
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34",
         "geometry_field": "way",
         "host": "localhost",
-        "id": "waterway_label",
+        "id": "wardlabel",
         "key_field": "",
         "password": "postgres",
         "port": "5432",
-        "project": "foss4g-2011",
+        "project": "boundaries-proposed",
         "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
-        "table": "( SELECT way, waterway AS type, name\n  FROM planet_osm_line\n  WHERE waterway IN ('canal', 'river', 'stream') \n    AND name IS NOT NULL\n) AS data",
+        "table": "(SELECT name, ward FROM planet_osm_polygon\n) AS data",
         "type": "postgis",
-        "user": "postgres"
+        "user": "postgres",
+        "extent_cache": "auto"
       },
       "class": "",
       "geometry": "linestring",
-      "id": "waterway_label",
-      "name": "waterway_label",
+      "id": "wardlabel",
+      "name": "wardlabel",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "srs-name": "900913",
-      "status": "on"
+      "status": "off",
+      "extent": [
+        -179.9999999749438,
+        -85.051,
+        179.9999999749438,
+        85.051
+      ],
+      "advanced": {}
     },
     {
       "extent": [
@@ -673,5 +684,6 @@
   "metatile": 2,
   "attribution": "Data © OpenStreetMap (and) contributors, CC-BY-SA",
   "description": "",
-  "name": "Proposed Cleveland ward boundaries 2014"
+  "name": "Proposed Cleveland ward boundaries 2014",
+  "legend": ""
 }

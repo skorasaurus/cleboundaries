@@ -20,50 +20,41 @@
   
   <body>
     <style>
-      /*SIDEBAR - where the list of markers will be */
-      /*from http://mapbox.com/mapbox.js/example/timeline/ */
-      #sidebar {
+      #location-list {
         position:absolute;
         top:0px;
-        left:0px;
         background:#fff;
         z-index:999;
         overflow:auto;
         opacity:0.6;
-      }
-      #sidebar:hover {
-        opacity:1;
-      }
-      #location-list {
         padding:10px;
-        right:15px;
+        left:10px;
+
       }
       #location-list a {
-        font-size:10px;
+        font-size:16px;
         text-decoration:none;
       }
     </style>
-    <div id='sidebar'>
       <div id='location-list'>
         
-<h2> Cleveland Proposed boundaries</h2> <a href="https://github.com/skorasaurus/cleboundaries/">https://github.com/skorasaurus/cleboundaries/</a>
-
-      </div>
+<h2> Cleveland's Ward boundaries in 2014</h2> <a href="https://github.com/skorasaurus/cleboundaries/">https://github.com/skorasaurus/cleboundaries/</a>
     </div>
     <div id='mapsetup'></div>
     <script>
       // http://mapbox.com/mapbox.js/example/interactive-layer-mapbox-layer/
       var map = mapbox.map('mapsetup');
       map.addLayer(mapbox.layer().id('skorasaurus.boundaries-proposed'));
-
+      map.interaction.auto();
       // streets
       map.addLayer(mapbox.layer().id('skorasaurus.map-kyn92w3i'));
+    
 
       map.zoom(12).center({
         lat: 41.5010,
         lon: -81.6922
       });
-      map.setZoomRange(10, 18);
+      map.setZoomRange(11, 17);
       
        map.ui.attribution.add()
         .content('<a href="http://mapbox.com/about/maps">MapBox Terms &amp; Feedback</a> - <a href="http://www.openstreetmap.org/">&copy; OpenStreetMap contributors</a>');
