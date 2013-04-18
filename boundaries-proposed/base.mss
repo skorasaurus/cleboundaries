@@ -1,21 +1,25 @@
 #wards[zoom>10] {
-   [type='1'],[type='3'] { polygon-fill: #7FC97F; }  
-  [type='2']   { polygon-fill: #E41A1C ; }
-    [type='4'] { polygon-fill: #984EA3; }
-    [type='5'] { polygon-fill:  #435; } 
-  [type='6'] { polygon-fill: #377EB8; }  
-    [type='8'], [type='7'] { polygon-fill: #E41A1C; }
-  [type='9'] { polygon-fill: #BEAED4; }  
- [type='10']    { polygon-fill: #E68A5C; }
-  [type='11']      { polygon-fill: #E68A5C; }
-  [type='12']      { polygon-fill: @cemetery; }
-  [type='13']       { polygon-fill: #7FC97F; }
-  [type='14']       { polygon-fill: #435; }
-  [type='15']       { polygon-fill: #BEAED4; }
-  [type='16']       { polygon-fill: #444; }
-  [type='17']       { polygon-fill: #FDC086; }
+[type='3'], [type='9'],[type='16'] { polygon-fill: #e41a1c; }  
+  
+[type='2'],[type='8'],[type='7'],[type='14'] { polygon-fill: #377eb8; }
+  
+[type='1'],[type='5'],[type='11'] { polygon-fill: #4daf4a; }
+  
+[type='10'], [type='12'],[type='4'],[type='17'] { polygon-fill: #984ea3; }
+
+[type='13'],[type='15'],[type='6'] {polygon-fill: #ff7f00;} 
+
 
 }
+/*
+#e41a1c RED
+#377eb8 BLUE 
+#4daf4a GREEN 
+#984ea3 PURPLE
+#ff7f00 ORANGE */
+
+
+/* 6,16 */
 
 /* 5 and 7 and 3 must be diff */ /* 6 and 9 */
 
