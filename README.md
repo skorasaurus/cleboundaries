@@ -1,7 +1,7 @@
 cleboundaries
 =============
 
-Boundaries of Cleveland wards, current and ones going into effect in 2014, etc. 
+City of Cleveland ward boundaries as of January 1, 2014. 
 
 some of the TODO: 
 - find existing city of cleveland ward boundaries (SHP would work)
@@ -15,11 +15,15 @@ Inspired by:
 
 http://project.wnyc.org/nyc-districting-revised/index.html?lat=40.7370&lon=-73.9220&zoom=12
 
-
 contents: 
 
-2014wardboundaries.osm - ward boundaries for Cleveland, effective 2014
-- Can use josm to open
+2014wardboundaries-proposed.osm - 
+the first public release of 2014 ward boundaries.
+
+
+2014wardboundaries.osm
+- the revised boundaries. 
+
 
 2014wardboundaries.shp 
 
@@ -32,3 +36,6 @@ Before I made the shapefile, I had to convert the .osm to a postgis-enabled pgsq
 
 index.html 
 - simple html page using mapbox.js that displays the borders over a mapbox basemap. 
+
+License: 
+WTFPL
