@@ -2,9 +2,10 @@
 <html>
   
   <head>
-    <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js'></script>
-    <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet' />
-    <style>
+   <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.js'></script>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.css' rel='stylesheet' />
+  <style>
       body {
         margin:0;
         padding:0;
@@ -43,18 +44,18 @@
     <div id='mapsetup'></div>
     <script>
       // http://mapbox.com/mapbox.js/example/interactive-layer-mapbox-layer/
-      var map = mapbox.map('mapsetup');
-      map.addLayer(mapbox.layer().id('skorasaurus.boundaries-proposed'));
-      map.interaction.auto();
-      // streets
-      map.addLayer(mapbox.layer().id('skorasaurus.map-kyn92w3i'));
-    
+      var map = L.mapbox.map('mapsetup');
 
-      map.zoom(12).center({
-        lat: 41.5010,
-        lon: -81.6922
-      });
-      map.setZoomRange(11, 17);
+      map.setView([41.5010, -81.6922], 12);
+
+      map.addLayer(L.mapbox.tileLayer('skorasaurus.boundaries-proposed'));
+      // is interaction auto not necessary in 1.5.x ?  
+      // map.interaction.auto();
+      // streets
+      map.addLayer(L.mapbox.tileLayer('skorasaurus.map-kyn92w3i'));
+      
+      // from mapbox 0.6.7.
+      // map.setZoomRange(11, 17);
       
        map.ui.attribution.add()
         .content('<a href="http://mapbox.com/about/maps">MapBox Terms &amp; Feedback</a> - <a href="http://www.openstreetmap.org/">&copy; OpenStreetMap contributors</a>');
