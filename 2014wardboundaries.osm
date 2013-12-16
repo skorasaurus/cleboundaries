@@ -1255,7 +1255,6 @@
   <node id='-1006' action='modify' visible='true' lat='41.49124158797192' lon='-81.67869547769402' />
   <node id='-1004' action='modify' visible='true' lat='41.48913054631651' lon='-81.67435736759685' />
   <node id='-1002' action='modify' visible='true' lat='41.48768372190324' lon='-81.66796322308198' />
-  <node id='-998' action='modify' visible='true' lat='41.52824232453913' lon='-81.63874285765691' />
   <node id='-996' action='modify' visible='true' lat='41.46187924365308' lon='-81.76888764278476' />
   <node id='-990' action='modify' visible='true' lat='41.46910030794636' lon='-81.8088795906111' />
   <node id='-988' action='modify' visible='true' lat='41.48645710058758' lon='-81.66650238336912' />
@@ -3458,7 +3457,6 @@
     <nd ref='-478' />
     <nd ref='-476' />
     <nd ref='-206' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3554' action='modify' visible='true'>
     <nd ref='-224' />
@@ -3477,7 +3475,6 @@
     <nd ref='-3424' />
     <nd ref='-520' />
     <nd ref='-518' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3552' action='modify' visible='true'>
     <nd ref='-112' />
@@ -3499,7 +3496,6 @@
     <nd ref='-370' />
     <nd ref='-368' />
     <nd ref='-518' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3548' action='modify' visible='true'>
     <nd ref='-518' />
@@ -3553,7 +3549,6 @@
     <nd ref='-574' />
     <nd ref='-572' />
     <nd ref='-380' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3544' action='modify' visible='true'>
     <nd ref='-380' />
@@ -3840,7 +3835,6 @@
     <nd ref='-448' />
     <nd ref='-446' />
     <nd ref='-390' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3518' action='modify' visible='true'>
     <nd ref='-128' />
@@ -3860,7 +3854,6 @@
     <nd ref='-384' />
     <nd ref='-382' />
     <nd ref='-380' />
-    <tag k='highway' v='tertiary' />
   </way>
   <way id='-3514' action='modify' visible='true'>
     <nd ref='-1542' />
