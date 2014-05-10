@@ -27,5 +27,5 @@ To reproduce on your computer, you can simply change the layer source from a POS
 index.html 
 - simple html page using mapbox.js/leaflet that displays the borders over a mapbox basemap. 
 
-License: 
-WTFPL
+License:
+CC BY 4.0
