@@ -1,7 +1,7 @@
 cleboundaries
 =============
 
-City of Cleveland ward boundaries as of January 1, 2014. 
+The City of Cleveland ward boundaries. I will attempt to keep them up to date. 
 
 Inspired by: 
 
@@ -10,15 +10,15 @@ http://project.wnyc.org/nyc-districting-revised/index.html?lat=40.7370&lon=-73.9
 contents: 
 
 2014wardboundaries.osm
-Boundaries were revised and passed by City Council in April 2014. 
-
-You can obtain the proposed boundaries that were publically released in March 2013 by viewing my commit history and using the 2014wardboundaries-proposed.osm file. 
+The Boundaries were passed by City Council in April 2014. 
 
 2014wardboundaries.shp 
 Same as 2014wardboundaries.osm as a SHP. 
 
 2014wardboundaries.geojson
 Same as 2014wardboundaries.osm as geojson. 
+
+Proposed Boundaries for 2014 were first released in March 2013. Through City Council deliberations, they were changed before they became official and passed into law. You can find these boundaries by viewing my commit history, specifically the .osm files.  
 
 boundaries-proposed
 - tilemill project of the styled ward boundaries
