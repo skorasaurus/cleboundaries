@@ -16,7 +16,7 @@ Available as SHP, geoJSON, and OSM.
 
 [Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries.geojson) 
  
-[Download Ward Boundaries as SHP (shapefile)]( (https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-shp.zip) 
+[Download Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-shp.zip) 
 
 These boundaries were obtained from the City of Cleveland's Planning Department. 
 
@@ -34,8 +34,10 @@ neighborhood:
 
 - neighborhood boundaries of Cleveland that I derived from a number of sources. See https://skorasaurus.wordpress.com/cleveland-neighborhood-map/ for a background. 
 
-License:
-CC BY 4.0
+- [Download as geoJSON](https://github.com/skorasaurus/cleboundaries/blob/master/neighborhoods/nhboundaries.geojson)
+
+License of neighborhood, CC BY 4.0
+
 ---------------------------------------
 landmarkdistricts:
 
@@ -43,7 +45,7 @@ landmarkdistricts:
 
 [Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/landmarkdistricts/landmarkdistricts-shp.zip) 
 
-Historical Landmark Districts are [Areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
+Historical Landmark Districts are [areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
 
 Obtained from City of Cleveland's Planning Department
 ---------------------------------------
