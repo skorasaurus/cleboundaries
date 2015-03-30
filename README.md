@@ -43,8 +43,16 @@ landmarkdistricts:
 
 [Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/landmarkdistricts/landmarkdistricts-shp.zip) 
 
-[Areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
+Historical Landmark Districts are [Areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
 
 Obtained from City of Cleveland's Planning Department
+---------------------------------------
+policedistricts:
+
+Cleveland Police Department's Districts
+
+[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/policedistricts/policedistricts.geojson) 
+
+[Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/policedistricts/policedistricts-shp.zip) 
 
 
