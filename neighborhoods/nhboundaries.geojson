@@ -2083,6 +2083,7 @@
     "type": "Feature",
     "id": "way/-1522",
     "properties": {
+        "name": "Old Brooklyn",
         "neighborhood": "obk",
         "place": "neighbourhood",
         "id": "way/-1522"
@@ -2726,6 +2727,7 @@
     "type": "Feature",
     "id": "way/-1514",
     "properties": {
+        "name": "Slavic Village",
         "neighborhood": "svd",
         "place": "neighbourhood",
         "id": "way/-1514"
