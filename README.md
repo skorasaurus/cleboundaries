@@ -6,13 +6,14 @@ Various City of Cleveland boundary files that aren't publicly available although
 
 Inspired by many things including [WNYC's Redistricting map](http://project.wnyc.org/nyc-districting-revised/index.html?lat=40.7370&lon=-73.9220&zoom=12)
 
+For geojson files, you may need to right-click on the URL and choose 'save link as'.
 
 contents: 
 ---------------------------------------
 Wards/ 
 
 Cleveland's current ward boundaries; most recently revised by Cleveland City Council in April 2014.
-Available as SHP, geoJSON, and OSM. 
+Available as SHP and geoJSON.
 
 [Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries.geojson) 
  
@@ -34,7 +35,7 @@ neighborhood:
 
 Neighborhood boundaries of Cleveland that I derived from a number of sources. See https://skorasaurus.wordpress.com/cleveland-neighborhood-map/ for a background. 
 
-[Download as geoJSON](https://github.com/skorasaurus/cleboundaries/blob/master/neighborhoods/nhboundaries.geojson)
+[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/neighborhoods/nhboundaries.geojson)
 
 License of neighborhood, CC BY 4.0
 
