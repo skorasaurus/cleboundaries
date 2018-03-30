@@ -6,7 +6,9 @@ Various City of Cleveland boundary files that aren't publicly available although
 
 Inspired by many things including [WNYC's Redistricting map](http://project.wnyc.org/nyc-districting-revised/index.html?lat=40.7370&lon=-73.9220&zoom=12)
 
-For geojson files, you may need to right-click on the URL and choose 'save link as'.
+For geojson files, you may need to right-click on the URL and choose 'save link as'. 
+
+For data where I didn't specify the license, I don't what know it is (I didn't make the data set), assume your own risk. 
 
 contents: 
 ---------------------------------------
