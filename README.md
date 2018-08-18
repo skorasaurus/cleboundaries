@@ -20,7 +20,7 @@ Available as SHP and geoJSON.
 
 [Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries.geojson) 
  
-[Download Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-shp.zip) 
+[Download the Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-shp.zip) 
 
 These boundaries were obtained from the City of Cleveland's Planning Department. 
 
