@@ -92,16 +92,16 @@ of Cleveland (Ohio) annexed (acquired) in its history.
  Call number: 
 :   (qG 4084. C5F35 1954aa . C5) at the Cleveland Public Library
 
-Map states in lower right hand corner, "Drawn April 1968" originally
+Map states in lower right hand corner, \"Drawn April 1968\" originally
 issued as 1 sheet;
 
 This is a hand-drawn map of the annexations through the mid 20th
 century. It is one sheet originally; but I receive a scan of this in two
-parts, as two files from the Cleveland Public Library's Map Collection
-and I didn't sew/merge them together)
+parts, as two files from the Cleveland Public Library\'s Map Collection
+and I didn\'t sew/merge them together)
 
-(This is NOT IN the Cleveland Public Library public catalog, it's only
-in the Cleveland Public Library's Map Collection's catalog; only
+(This is NOT IN the Cleveland Public Library public catalog, it\'s only
+in the Cleveland Public Library\'s Map Collection\'s catalog; only
 browsable in person at the [Map
 Collection](https://cpl.org/subjectscollections/map-collection/) Tom
 Edwards of the CPL Map Collection said that there are many items in the
@@ -121,7 +121,7 @@ annexations](https://www.flickr.com/photos/skorasaurus/42359283875/)
 Sheet/Supplement D is a [more generalized map of Cleveland
 annexations](https://www.flickr.com/photos/skorasaurus/42359281335/)
 Download the original, uncompressed (as TIF, each are up to 130mb)
-[Annexations to the city of Cleveland annexation map - Sheet
+images [Annexations to the city of Cleveland annexation map - Sheet
 A](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+a.TIF)
 [Annexations to the city of Cleveland annexation map - Sheet
 B](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+b.TIF)
@@ -134,12 +134,12 @@ There is a separate item [similar to this 1968 annexation
 map](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2065749/one)
 in the CPL catalog. Its call number is: G4084.C5F7 1974 .C5X
 
-(I don't have a copy of this digitally; and as of 2018-05, I'm unsure if
-i've seen it; I'm near certain it is the same item that I mention above
-because it's listed as being only in the public administration library
-and its metadata is extremely similar to the "1968 map"..
+(I don\'t have a copy of this digitally; and as of 2018-05, I\'m unsure
+if i\'ve seen it; I\'m near certain it is the same item that I mention
+above because it\'s listed as being only in the public administration
+library and its metadata is extremely similar to the \"1968 map\"..
 
-#### Source \#2 (subsequently referred in my notes as the "1941" or Volkman map)
+#### Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
 
 Title:
 :   Annexations to the city of Cleveland
@@ -168,16 +168,19 @@ View the [the Volkman map on
 flickr](https://www.flickr.com/photos/skorasaurus/28183818717/)and
 downloaded and the [original TIF of the Volkman
 map](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1941_-_Volkman.TIF)
-can be downloaded Additional resources: After primarily relying upon the
-Volkman and 1968 maps; I realized that I could plat maps from Sanborn
-and Hopkins some which are available from the [Cleveland Public
-Library's Digital Map
-Collection](https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24);
-and [the Library of
-Congress](https://www.loc.gov/collections/sanborn-maps/?fa=location:ohio%7Clocation:cuyahoga+county)published
-some of them online as recently as this year 2018. The Sanborn and
-Hopkins maps from the LOC and CPL aren't georeferenced but are still a
-good secondary source to obtain the boundaries.
+can be downloaded
+
+Additional resources:
+
+After primarily relying upon the Volkman and 1968 maps; I realized that
+I could plat maps from Sanborn and Hopkins some which are available from
+the [Cleveland Public Library\'s Digital Map
+Collection](https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24)
+; and [the Library of
+Congress](https://www.loc.gov/collections/sanborn-maps/?fa=location:ohio%7Clocation:cuyahoga+county)
+published some of them online as recently as this year 2018. The Sanborn
+and Hopkins maps from the LOC and CPL aren\'t georeferenced but are
+still a good secondary source to obtain the boundaries.
 
 -   [Rose, William Ganson, b. 1878 - The Making of a City; pg. 1113
     available on
@@ -187,16 +190,17 @@ good secondary source to obtain the boundaries.
 
 (Reference Map, what I use to base to place the actual polygons)
 
--   [Aerial imagery: "OSIP 1ft Imagery Most Current
-    Available"](http://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/RESTServiceEndpoints.aspx%0A)
+-   [Aerial imagery: \"OSIP 1ft Imagery Most Current
+    Available\"](http://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/RESTServiceEndpoints.aspx%0A)
 -   [TIGER 2017
     roads](https://www.census.gov/geo/maps-data/data/tiger.html)A
     dataset containing most roads provided by the US Census; their
-    accuracy varies but it's liberally licensed
+    accuracy varies but it\'s liberally licensed
 -   [Present-day Cuyahoga County Municipal
     Boundaries](https://data-cuyahoga.opendata.arcgis.com/datasets/8af056ca0e654b3cbee6a68841ec905a_0)
--   [OpenStreetMap](https://openstreetmap.org) (referred to my notes
-    as OSM)
+-   [OpenStreetMap](https://openstreetmap.org) (referred to my notes as
+    OSM)
+
 
 ### annexations folder contents:
 
