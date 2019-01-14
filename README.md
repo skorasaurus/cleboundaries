@@ -202,7 +202,7 @@ still a good secondary source to obtain the boundaries.
     OSM)
 
 
-### annexations folder contents:
+### annexations contents:
 
 annexations.shp - the geographic polygons
 
@@ -271,6 +271,8 @@ P - the eastern end; tried to verify once more in 1896 index map (sanborn)Vol. 4
 (http://hdl.loc.gov/loc.gmd/g4084cm.g4084cm_g06648189604)
 
 S - needs to be reviewed; says 115 on the volkmann map, but the 1968 maps appears to have the western border at east 118th. 
+
+T - looks to be pretty good to match the 1968 map; small place
 
 V - the eastern border - the river east of the belt line and 022_Hopkins 1912 v2  Plate 19.TIF (hopkins 1912/1914 volume 2 - this is not on CPL contentdm publically, received via internally) 
 is curved quite a bit in that plat; but in present-day, it's nearly straight? did they straighten out the river in the 20th century? I'll leave it curvey.
