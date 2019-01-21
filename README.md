@@ -206,6 +206,7 @@ secondary source to obtain the boundaries.
 
 
 ### annexations contents:
+### annexations folder contents:
 
 annexations.shp - the geographic polygons
 
@@ -218,7 +219,8 @@ id: a unique identifier for each polygon; its value does not have any significan
 annex-key: refers to the land masses on both the 1941 Volkmann map and the 1968 annex map.
 Use this key and aforementioned sources to identify particular areas.
 
-start: the dates are written in <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a>standard; For example;
+start: The date which annexation had been implemented or active (this is subject to interpretation)
+the dates are written in <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> standard; For example;
 1902-02-14 refers to Feburary 14, 1902. 
 
 end: This column will eventually have any dates for dates of land that was annexed away from the City of Cleveland. I put in 2018-12-28 a stop-gap fix so I could make <a href="http://skorasaur.us/maps/annexations/index.html"> this animation map of Cleveland annexations a little more easily.  
@@ -229,16 +231,16 @@ These dates are from all from the 1968 MAP (PAGE C) (https://www.flickr.com/phot
 EE, the final stamp of annexation had to be placed by the county commissioners.
 From EE to the end of the list, the secretary of state had to be formally notified before the annexation was considered binding."
 
-(BECAUSE IT ONLY GOES TO sequence of QQ/RR; about until 1917 or so)
+Note that 1968 map's dates are only complete through QQ/RR; about until 1917 or so)
 
-TODO: figure out whether I need to use the sequence of dates on the 1941 map later on; 
+TODO: figure out whether I need to use the sequence of dates on the Volkmann Map later on and 
 
 Further notes: 
 (At this point in the project, we are assuming that all annexation/land changes have not resulted in cleveland losing any land; only gaining more; This is not the case in Cleveland history and will be corrected in further updates of this github repository.
 
 Nonetheless, this provides a great starting point to see when certain pieces of land were acquired by the city of Cleveland and to my knowledge, it's the only digital source of Cleveland Annexations.
 
-Below are additional notes regarding these polygons. These polygons required interpretation of the aforementioned maps, require further scrutiny, verification.
+Below are additional notes regarding these polygons. These polygons are interpretations of the aforementioned maps, require further scrutiny, verification.
 
 I strongly suggest to see the primary sources - the original legislation (available at the <a href="https://cpl.org/locations/public-administration-library/">Cleveland Public Library's Public Administration Library</a> to confirm these dates and determine any inaccuracies:
 
@@ -270,17 +272,17 @@ and I moved GG and II accordingly; also aligned eastern end of it to be west of 
 
 O - confident in its accuracy; also confirmed southeast end with hopkins 1881 map. 
 
-P - the eastern end; tried to verify once more in 1896 index map (sanborn)Vol. 4. (doesn't appear to be much coverage of the eastern edge of this polygon on 1896 sanborn) 
+P - the eastern end; tried to verify once more in 1896 index map (sanborn)Vol. 4. (doesn't appear to be much coverage of the eastern edge of this polygon on 1896 sanborn)
 (http://hdl.loc.gov/loc.gmd/g4084cm.g4084cm_g06648189604)
 
-S - needs to be reviewed; says 115 on the volkmann map, but the 1968 maps appears to have the western border at east 118th. 
+S - needs to be reviewed; volkmann map has 115th at , but the 1968 maps appears to have the western border at east 118th. 
 
 T - looks to be pretty good to match the 1968 map; small place
 
 V - the eastern border - the river east of the belt line and 022_Hopkins 1912 v2  Plate 19.TIF (hopkins 1912/1914 volume 2 - this is not on CPL contentdm publically, received via internally) 
 is curved quite a bit in that plat; but in present-day, it's nearly straight? did they straighten out the river in the 20th century? I'll leave it curvey.
 
-W - using the https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/ /rec/1 (plate 33 of a 1881 hopkins map); I was able to determine that the southwestern border of 'W' was the centerline of Ansel Road; the northwestern part of W; I determine; is a no longerexisting road; hoyt is what is now 70th; and 71st is what the border referred to. 
+W - using the https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/35 (plate 33 of a 1881 hopkins map); I was able to determine that the southwestern border of 'W' was the centerline of Ansel Road; the northwestern part of W; I determine; is a no longerexisting road; hoyt is what is now 70th; and 71st is what the border referred to. 
 
 X - not sure about the eastern border, because the 1941 map says the southeast border is east 115 and ingomar; and those roads never intersected 
 
@@ -330,5 +332,3 @@ https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/379
 (had only 4 control points to work w/ because of limited references); see KK for details
 
 51A - (not on the volkmann map; but only on the 1968 map) - According to OSM and official boundary from Cuyahoga County, the southern part of this area is NOT currently within the city of Cleveland; perhaps the 1968 map is wrong? 
-
-
