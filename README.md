@@ -74,7 +74,7 @@ of Cleveland (Ohio) annexed (acquired) in its history.
 
 ### Secondary Sources: {#annexation-sources}
 
-**(Referred in my notes as the 1968 Map)**
+#### (Referred in my notes as the 1968 Map) {#1968}
 
  Title: 
 :   Annexations to the city of Cleveland
@@ -108,31 +108,36 @@ Edwards of the CPL Map Collection said that there are many items in the
 map collection in the paper card catalog that are NOT listed yet in the
 public catalog..)
 
-Available to digitally view the 1968 map
+Digitally view the 1968 map:
 
-[Sheet A of the Annexations to the city of Cleveland annexation
-map](https://www.flickr.com/photos/skorasaurus/43113172221/%0A) and
-[Sheet B of the Annexations to the city of Cleveland annexation
-map](https://www.flickr.com/photos/skorasaurus/28243748947/) The
-following also available as accompanying documents to the aforementioned
-source. *This needs to be confirmed that these documents supplement the
-above* [Sheet C lists the dates of
-annexations](https://www.flickr.com/photos/skorasaurus/42359283875/)
-Sheet/Supplement D is a [more generalized map of Cleveland
-annexations](https://www.flickr.com/photos/skorasaurus/42359281335/)
+-   [Sheet A of the Annexations to the city of Cleveland annexation
+    map](https://www.flickr.com/photos/skorasaurus/43113172221/) and
+-   [Sheet B of the Annexations to the city of Cleveland annexation
+    map](https://www.flickr.com/photos/skorasaurus/28243748947/)
+-   [Sheet C lists the dates of
+    annexations](https://www.flickr.com/photos/skorasaurus/42359283875/)
+-   Sheet/Supplement D is a [a more generalized map of Cleveland
+    annexations](https://www.flickr.com/photos/skorasaurus/42359281335/)
+
 Download the original, uncompressed (as TIF, each are up to 130mb)
-images [Annexations to the city of Cleveland annexation map - Sheet
+images:
+
+[Annexations to the city of Cleveland annexation map - Sheet
 A](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+a.TIF)
+
 [Annexations to the city of Cleveland annexation map - Sheet
 B](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+b.TIF)
-[Annexations to the city of Cleveland Supplement
+
+[Annexations to the city of Cleveland - Supplement
 (C)](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+c.TIF)
-[Annexations to the city of Cleveland Supplement
+
+[Annexations to the city of Cleveland - Supplement
 (D)](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+d.TIF)
 
 There is a separate item [similar to this 1968 annexation
 map](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2065749/one)
-in the CPL catalog. Its call number is: G4084.C5F7 1974 .C5X
+in the CPL catalog.\
+Its call number is: G4084.C5F7 1974 .C5X
 
 (I don\'t have a copy of this digitally; and as of 2018-05, I\'m unsure
 if i\'ve seen it; I\'m near certain it is the same item that I mention
@@ -162,25 +167,23 @@ General Note:
 :   422.77132 V885A
 :   G4084.C5F35 1932 .V6X
 
-[Entry is Available in the Cleveland Public Library
-catalog.](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1700889/one)
 View the [the Volkman map on
 flickr](https://www.flickr.com/photos/skorasaurus/28183818717/)and
-downloaded and the [original TIF of the Volkman
+downloaded and the [original, uncompressed TIF of the Volkman
 map](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1941_-_Volkman.TIF)
-can be downloaded
 
 Additional resources:
 
-After primarily relying upon the Volkman and 1968 maps; I realized that
-I could plat maps from Sanborn and Hopkins some which are available from
-the [Cleveland Public Library\'s Digital Map
+After initially relying upon the Volkman and 1968 maps, I realized that
+I could use historic plat maps from Sanborn and Hopkins some which are
+available from the [Cleveland Public Library\'s Digital Map
 Collection](https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24)
-; and [the Library of
+and [the Library of
 Congress](https://www.loc.gov/collections/sanborn-maps/?fa=location:ohio%7Clocation:cuyahoga+county)
-published some of them online as recently as this year 2018. The Sanborn
-and Hopkins maps from the LOC and CPL aren\'t georeferenced but are
-still a good secondary source to obtain the boundaries.
+published some of them online. The Sanborn and Hopkins maps, represent
+property-level maps of historic Cleveland from the early 20th century
+and late 19th century. They are not georeferenced but are still a good
+secondary source to obtain the boundaries.
 
 -   [Rose, William Ganson, b. 1878 - The Making of a City; pg. 1113
     available on
