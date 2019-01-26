@@ -70,11 +70,11 @@ Cleveland Police Department's Districts
 
 ---------------------------------------
 annexations: Geographic polygons that represent the land that the City
-of Cleveland (Ohio) annexed (acquired) in its history.
+of Cleveland (Ohio) annexed (acquired) in its history. These were mostly
+derived from two secondary sources: what I call: the 1968 map and the
+Volkmann/1941 map
 
-### Secondary Sources: {#annexation-sources}
-
-#### (Referred in my notes as the 1968 Map) {#1968}
+### the 1968 Map {#1968}
 
  Title: 
 :   Annexations to the city of Cleveland
@@ -144,7 +144,7 @@ if i\'ve seen it; I\'m near certain it is the same item that I mention
 above because it\'s listed as being only in the public administration
 library and its metadata is extremely similar to the \"1968 map\"..
 
-#### Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
+### Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
 
 Title:
 :   Annexations to the city of Cleveland
@@ -203,7 +203,6 @@ secondary source to obtain the boundaries.
     Boundaries](https://data-cuyahoga.opendata.arcgis.com/datasets/8af056ca0e654b3cbee6a68841ec905a_0)
 -   [OpenStreetMap](https://openstreetmap.org) (referred to my notes as
     OSM)
-
 
 ### annexations contents:
 ### annexations folder contents:
