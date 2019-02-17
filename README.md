@@ -70,11 +70,11 @@ Cleveland Police Department's Districts
 
 ---------------------------------------
 annexations: Geographic polygons that represent the land that the City
-of Cleveland (Ohio) annexed (acquired) in its history.
+of Cleveland (Ohio) annexed (acquired) in its history. These were mostly
+derived from two secondary sources: what I call: the 1968 map and the
+Volkmann/1941 map
 
-### Secondary Sources: {#annexation-sources}
-
-**(Referred in my notes as the 1968 Map)**
+### the 1968 Map {#1968}
 
  Title: 
 :   Annexations to the city of Cleveland
@@ -108,38 +108,43 @@ Edwards of the CPL Map Collection said that there are many items in the
 map collection in the paper card catalog that are NOT listed yet in the
 public catalog..)
 
-Available to digitally view the 1968 map
+Digitally view the 1968 map:
 
-[Sheet A of the Annexations to the city of Cleveland annexation
-map](https://www.flickr.com/photos/skorasaurus/43113172221/%0A) and
-[Sheet B of the Annexations to the city of Cleveland annexation
-map](https://www.flickr.com/photos/skorasaurus/28243748947/) The
-following also available as accompanying documents to the aforementioned
-source. *This needs to be confirmed that these documents supplement the
-above* [Sheet C lists the dates of
-annexations](https://www.flickr.com/photos/skorasaurus/42359283875/)
-Sheet/Supplement D is a [more generalized map of Cleveland
-annexations](https://www.flickr.com/photos/skorasaurus/42359281335/)
+-   [Sheet A of the Annexations to the city of Cleveland annexation
+    map](https://www.flickr.com/photos/skorasaurus/43113172221/) and
+-   [Sheet B of the Annexations to the city of Cleveland annexation
+    map](https://www.flickr.com/photos/skorasaurus/28243748947/)
+-   [Sheet C lists the dates of
+    annexations](https://www.flickr.com/photos/skorasaurus/42359283875/)
+-   Sheet/Supplement D is a [a more generalized map of Cleveland
+    annexations](https://www.flickr.com/photos/skorasaurus/42359281335/)
+
 Download the original, uncompressed (as TIF, each are up to 130mb)
-images [Annexations to the city of Cleveland annexation map - Sheet
+images:
+
+[Annexations to the city of Cleveland annexation map - Sheet
 A](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+a.TIF)
+
 [Annexations to the city of Cleveland annexation map - Sheet
 B](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+b.TIF)
-[Annexations to the city of Cleveland Supplement
+
+[Annexations to the city of Cleveland - Supplement
 (C)](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+c.TIF)
-[Annexations to the city of Cleveland Supplement
+
+[Annexations to the city of Cleveland - Supplement
 (D)](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1968+d.TIF)
 
 There is a separate item [similar to this 1968 annexation
 map](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2065749/one)
-in the CPL catalog. Its call number is: G4084.C5F7 1974 .C5X
+in the CPL catalog.\
+Its call number is: G4084.C5F7 1974 .C5X
 
 (I don\'t have a copy of this digitally; and as of 2018-05, I\'m unsure
 if i\'ve seen it; I\'m near certain it is the same item that I mention
 above because it\'s listed as being only in the public administration
 library and its metadata is extremely similar to the \"1968 map\"..
 
-#### Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
+### Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
 
 Title:
 :   Annexations to the city of Cleveland
@@ -162,25 +167,23 @@ General Note:
 :   422.77132 V885A
 :   G4084.C5F35 1932 .V6X
 
-[Entry is Available in the Cleveland Public Library
-catalog.](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1700889/one)
 View the [the Volkman map on
 flickr](https://www.flickr.com/photos/skorasaurus/28183818717/)and
-downloaded and the [original TIF of the Volkman
+downloaded and the [original, uncompressed TIF of the Volkman
 map](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cleveland+Annex+1941_-_Volkman.TIF)
-can be downloaded
 
 Additional resources:
 
-After primarily relying upon the Volkman and 1968 maps; I realized that
-I could plat maps from Sanborn and Hopkins some which are available from
-the [Cleveland Public Library\'s Digital Map
+After initially relying upon the Volkman and 1968 maps, I realized that
+I could use historic plat maps from Sanborn and Hopkins some which are
+available from the [Cleveland Public Library\'s Digital Map
 Collection](https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24)
-; and [the Library of
+and [the Library of
 Congress](https://www.loc.gov/collections/sanborn-maps/?fa=location:ohio%7Clocation:cuyahoga+county)
-published some of them online as recently as this year 2018. The Sanborn
-and Hopkins maps from the LOC and CPL aren\'t georeferenced but are
-still a good secondary source to obtain the boundaries.
+published some of them online. The Sanborn and Hopkins maps, represent
+property-level maps of historic Cleveland from the early 20th century
+and late 19th century. They are not georeferenced but are still a good
+secondary source to obtain the boundaries.
 
 -   [Rose, William Ganson, b. 1878 - The Making of a City; pg. 1113
     available on
@@ -201,8 +204,8 @@ still a good secondary source to obtain the boundaries.
 -   [OpenStreetMap](https://openstreetmap.org) (referred to my notes as
     OSM)
 
-
 ### annexations contents:
+### annexations folder contents:
 
 annexations.shp - the geographic polygons
 
@@ -215,7 +218,8 @@ id: a unique identifier for each polygon; its value does not have any significan
 annex-key: refers to the land masses on both the 1941 Volkmann map and the 1968 annex map.
 Use this key and aforementioned sources to identify particular areas.
 
-start: the dates are written in <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a>standard; For example;
+start: The date which annexation had been implemented or active (this is subject to interpretation)
+the dates are written in <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> standard; For example;
 1902-02-14 refers to Feburary 14, 1902. 
 
 end: This column will eventually have any dates for dates of land that was annexed away from the City of Cleveland. I put in 2018-12-28 a stop-gap fix so I could make <a href="http://skorasaur.us/maps/annexations/index.html"> this animation map of Cleveland annexations a little more easily.  
@@ -226,16 +230,16 @@ These dates are from all from the 1968 MAP (PAGE C) (https://www.flickr.com/phot
 EE, the final stamp of annexation had to be placed by the county commissioners.
 From EE to the end of the list, the secretary of state had to be formally notified before the annexation was considered binding."
 
-(BECAUSE IT ONLY GOES TO sequence of QQ/RR; about until 1917 or so)
+Note that 1968 map's dates are only complete through QQ/RR; about until 1917 or so)
 
-TODO: figure out whether I need to use the sequence of dates on the 1941 map later on; 
+TODO: figure out whether I need to use the sequence of dates on the Volkmann Map later on and 
 
 Further notes: 
 (At this point in the project, we are assuming that all annexation/land changes have not resulted in cleveland losing any land; only gaining more; This is not the case in Cleveland history and will be corrected in further updates of this github repository.
 
 Nonetheless, this provides a great starting point to see when certain pieces of land were acquired by the city of Cleveland and to my knowledge, it's the only digital source of Cleveland Annexations.
 
-Below are additional notes regarding these polygons. These polygons required interpretation of the aforementioned maps, require further scrutiny, verification.
+Below are additional notes regarding these polygons. These polygons are interpretations of the aforementioned maps, require further scrutiny, verification.
 
 I strongly suggest to see the primary sources - the original legislation (available at the <a href="https://cpl.org/locations/public-administration-library/">Cleveland Public Library's Public Administration Library</a> to confirm these dates and determine any inaccuracies:
 
@@ -267,17 +271,17 @@ and I moved GG and II accordingly; also aligned eastern end of it to be west of 
 
 O - confident in its accuracy; also confirmed southeast end with hopkins 1881 map. 
 
-P - the eastern end; tried to verify once more in 1896 index map (sanborn)Vol. 4. (doesn't appear to be much coverage of the eastern edge of this polygon on 1896 sanborn) 
+P - the eastern end; tried to verify once more in 1896 index map (sanborn)Vol. 4. (doesn't appear to be much coverage of the eastern edge of this polygon on 1896 sanborn)
 (http://hdl.loc.gov/loc.gmd/g4084cm.g4084cm_g06648189604)
 
-S - needs to be reviewed; says 115 on the volkmann map, but the 1968 maps appears to have the western border at east 118th. 
+S - needs to be reviewed; volkmann map has 115th at , but the 1968 maps appears to have the western border at east 118th. 
 
 T - looks to be pretty good to match the 1968 map; small place
 
 V - the eastern border - the river east of the belt line and 022_Hopkins 1912 v2  Plate 19.TIF (hopkins 1912/1914 volume 2 - this is not on CPL contentdm publically, received via internally) 
 is curved quite a bit in that plat; but in present-day, it's nearly straight? did they straighten out the river in the 20th century? I'll leave it curvey.
 
-W - using the https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/ /rec/1 (plate 33 of a 1881 hopkins map); I was able to determine that the southwestern border of 'W' was the centerline of Ansel Road; the northwestern part of W; I determine; is a no longerexisting road; hoyt is what is now 70th; and 71st is what the border referred to. 
+W - using the https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/35 (plate 33 of a 1881 hopkins map); I was able to determine that the southwestern border of 'W' was the centerline of Ansel Road; the northwestern part of W; I determine; is a no longerexisting road; hoyt is what is now 70th; and 71st is what the border referred to. 
 
 X - not sure about the eastern border, because the 1941 map says the southeast border is east 115 and ingomar; and those roads never intersected 
 
@@ -327,5 +331,3 @@ https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/379
 (had only 4 control points to work w/ because of limited references); see KK for details
 
 51A - (not on the volkmann map; but only on the 1968 map) - According to OSM and official boundary from Cuyahoga County, the southern part of this area is NOT currently within the city of Cleveland; perhaps the 1968 map is wrong? 
-
-
