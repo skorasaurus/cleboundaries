@@ -96,17 +96,17 @@ Subject:
 Call number:
 :   (qG 4084. C5F35 1954aa . C5) at the Cleveland Public Library
 
-Map states in lower right hand corner, \"Drawn April 1968\" originally
+Map states in lower right hand corner, "Drawn April 1968" originally
 issued as 1 sheet;
 
 This is a hand-drawn map of the annexations through the mid 20th
 century. It is one sheet originally; but I received a scan of this in
-two parts, as two files from the Cleveland Public Library\'s Map
-Collection and I didn\'t sew/merge them together).
+two parts, as two files from the Cleveland Public Library's Map
+Collection and I didn't sew/merge them together).
 
-This is NOT IN the Cleveland Public Library public catalog, it\'s only
-in the Cleveland Public Library\'s Map Collection\'s catalog; only
-browsable in person at CPL\'s [Map
+This is NOT IN the Cleveland Public Library public catalog, it's only in
+the Cleveland Public Library's Map Collection's catalog; only browsable
+in person at CPL's [Map
 Collection](https://cpl.org/subjectscollections/map-collection/). Tom
 Edwards of the CPL Map Collection said that there are many items in the
 map collection in the paper card catalog that are NOT listed yet in the
@@ -145,13 +145,13 @@ map](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:
 in the CPL catalog.\
 Its call number is: G4084.C5F7 1974 .C5X
 
-(I don\'t have a copy of this digitally; and as of 2018-05, I\'m unsure
-if i\'ve seen it; I\'m near certain it is the same item that I mention
-above because it\'s listed as being only in the public administration
-library and its metadata is extremely similar to the \"1968 map\"..
+(I don't have a copy of this digitally; and as of 2018-05, I'm unsure if
+i've seen it; I'm near certain it is the same item that I mention above
+because it's listed as being only in the public administration library
+and its metadata is extremely similar to the "1968 map"..
 
-Source \#2 (subsequently referred in my notes as the \"1941\" or Volkman map)
------------------------------------------------------------------------------
+Source \#2 (subsequently referred in my notes as the "1941" or Volkman map)
+---------------------------------------------------------------------------
 
 Title:
 :   Annexations to the city of Cleveland
@@ -183,7 +183,7 @@ map](https://f002.backblazeb2.com/file/publique/cleveland_annexation_sources/Cle
 
 After initially relying upon the Volkman and 1968 maps, I realized that
 I could use historic plat maps from Sanborn and Hopkins some which are
-available from the [Cleveland Public Library\'s Digital Map
+available from the [Cleveland Public Library's Digital Map
 Collection](https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24)
 and [The Library of
 Congress](https://www.loc.gov/collections/sanborn-maps/?fa=location:ohio%7Clocation:cuyahoga+county)
@@ -201,19 +201,21 @@ secondary source to obtain the boundaries.
 (Reference Map, what I use to base to place the actual polygons for
 geotra)
 
--   [Aerial imagery: \"OSIP 1ft Imagery Most Current
-    Available\"](http://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/RESTServiceEndpoints.aspx)
+-   [Aerial imagery: "OSIP 1ft Imagery Most Current
+    Available"](http://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/RESTServiceEndpoints.aspx)
 -   [TIGER 2017
     roads](https://www.census.gov/geo/maps-data/data/tiger.html) A
     dataset containing most roads provided by the US Census; their
-    accuracy (Accuracy \"a measure of how well the data represent true
-    values.\") varies but it\'s liberally licensed
+    accuracy (Accuracy "a measure of how well the data represent true
+    values.") varies but it's liberally licensed
 -   [Present-day Cuyahoga County Municipal
     Boundaries](https://data-cuyahoga.opendata.arcgis.com/datasets/8af056ca0e654b3cbee6a68841ec905a_0)
 -   [OpenStreetMap](https://openstreetmap.org) (referred to my notes as
     OSM)
 
 ### annexations contents:
+### annexations folder contents:
+
 ### annexations folder contents:
 
 annexations.shp - the geographic polygons
@@ -239,32 +241,31 @@ These dates are from all from the 1968 MAP (PAGE C) (https://www.flickr.com/phot
 EE, the final stamp of annexation had to be placed by the county commissioners.
 From EE to the end of the list, the secretary of state had to be formally notified before the annexation was considered binding."
 
-Note that 1968 map's dates are only complete through QQ/RR; about until 1917 or so)
-
-TODO: figure out whether I need to use the sequence of dates on the Volkmann Map later on and 
+Note that 1968 map's dates are only complete through QQ/RR; about until 1917 or so); Subsequent dates were from Rose.
 
 Further notes: 
 (At this point in the project, we are assuming that all annexation/land changes have not resulted in cleveland losing any land; only gaining more; This is not the case in Cleveland history and will be corrected in further updates of this github repository.
 
 Nonetheless, this provides a great starting point to see when certain pieces of land were acquired by the city of Cleveland and to my knowledge, it's the only digital source of Cleveland Annexations.
 
-Below are additional notes regarding these polygons. These polygons are interpretations of the aforementioned maps, require further scrutiny, verification.
+Below are additional notes regarding these polygons. These polygons are interpretations of the aforementioned maps, require further scrutiny and verification verification.
 
-I strongly suggest to see the primary sources - the original legislation (available at the <a href="https://cpl.org/locations/public-administration-library/">Cleveland Public Library's Public Administration Library</a> to confirm these dates and determine any inaccuracies:
+I strongly suggest to see the primary sources - the original legislation - available at the <a href="https://cpl.org/locations/public-administration-library/">Cleveland Public Library's Public Administration Library</a> to confirm these dates and boundaries.
+
+The letters refer to the polygons on '1968', Volkmann maps and Rose sources. 
 
 C - see plate 3 of Hopkins, 1912, Volume 1 - )
 https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/1815/rec/11 , parkman (narrow alleyway just south of scovill)'s western point is at East 9th street; but on the 1941/volkmann map; parkman runs west of east 9th; so, not sure which is right; if the southern end is ; the 1968 map shows that southern most part extends west of parkman, so I followed the 1968 map here. 
 
 E - actually feel pretty confident in this; the georeferencing I made to the 1968 map works well here. 
 
-D - its boundaries look pretty defined on 1968 map and I had made the other polygons all around it, so I used those 
-as a guide to draw it. 
+D - its boundaries look pretty defined on 1968 map and I had made the other polygons all around it, so I used those as a guide to draw it. 
 
 H - eastern border is the cuyahoga river; 
 
 I think the 1898 map at http://peoplemaps.esri.com/cleveland/ goes gray at a point, I'm intrepreting it to be the city boundary
 (post 1900, the modern-day plaza was then a railyard )
-tHE western boundary of X was also confusing; I was just doing intepretation (intepretation, meaning, it doesn't follow any specific streets) of 1968 annex map boundary...
+the western boundary of X was also confusing; I was just doing intepretation (intepretation, meaning, it doesn't follow any specific streets) of 1968 annex map boundary...
 
 I - For this and H; I primarily relied on the 1968 map for these boundaries; 
 
@@ -309,14 +310,22 @@ FF - also need to verify the western border of this, to see if there were any ch
 GG - the northern boundary, there's a line that extends eastward from quincy 
 on the Volkmann map, this line is parallel with the quincy, but it clashes with the 1968 Map, which shows that the northern part of the GG border goes just north of stokes blvd/fairhill at pt just west of MLK intersection. (the lowest part of fairhill blvd west of mlk is still northern of quincy ave, if it were a true imaginary line heading east)
 
-HH - on the southeast part of this, the volkman 1941 map says the border is the euclid creek, but the current modern day in Cuyahoga County dataset goes further east of the creek; extending to chardon road, (maybe the creek moved?!) VERIFY with another source; 
+HH - on the southeast part of this, the volkman 1941 map says the border is the euclid creek, but the current modern day in Cuyahoga County dataset (municipal boundary ) goes further east of the creek; extending to chardon road, (maybe the creek moved?!) VERIFY with another source; not sure if there were subsequent annexations not captured by the 1968 or volkman maps or whether the creek was relocated. 
 ** importantly, the entire western border here is a crapshoot, totally guestimated, required a lot of interpretation. 
 
 II - think it's pretty good, compared with the 1968 map which, when I georeferenced it with tiger, it aligned really well in this part of town. 
 
-KK - according to the 1968 map, the southern part of the KK border was south of rookwood road but according to the georefrenced plate 33b of 1921, the southern part of the KK border (was well north of present-day rookwood circle, (not rookwood road, but rookwood circle, see additional_sources/1921-plate33b.png)) (certainly possible my georeference wrong, but I think this would determine look at another source or the original legislation)
+KK - according to the 1968 map, the southern part of the KK border was south of rookwood road but according to plat 33b of 1921 Hopkins (volume 1) which I georeferenced and the northern part of the plat matched up really well ; the southern part of the KK border (was well north of present-day rookwood circle, (not only rookwood road, but also rookwood circle, see additional_sources/1921-plate33b.png)) 
 
-LL - is legit, I think it's only covering that half side of homes east on 140th
+Additionally, hopkins 1921 volume 3, PLAT 8b has the southern boundary also has KK's border as north of rookwood road
+https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/3952/rec/8
+so I'm inclined that the 1968 map is possibly wrong; 
+
+
+LL - is legit, I think the eastern half is only covering that half side of homes east on 140th; 
+regarding the western half: 
+General Key Plan pg. 2, vol 1 of Sanborn Fire Insurance Maps of Cleveland, Ohio, V. 1, 1912-1918 (which was just an index page and didn't have a specific plat in that volume) it showed that there was a municipal boundary that ran on E. 140th (The street itself); I'm thinking that since this 
+was volume 1 of the 1912, and that the LL wasn't annexed until 1914, it was in the middle of east 140th. 
 
 MM - using the 1968 map, I confirmed that MM's western border, was in fact, east of MLK, not at MLK itself)
 
@@ -327,7 +336,10 @@ PP - verify the southwestern part of it; specifically the Volkmann map had the b
 
 QQ - yes, the 1968 map says the northern boundary is south of barrett; but the 
 
-RR - checked if the eastern boundary is correct in OSM because on the 1968 map, RR's eastern border extends east of E. 149; TODO
+RR - looks good; matched up eastern border 
+
+SS - in the 1968 map, the southern border of this tiny piece appears to be north of chagrin/kinsman rd, but I'm not sure if 
+that's really the case?  
 
 TT - in the 1968 and volkmann map, the southern border of Cleveland is Brookpark Road; 
 but in OSM and in the County's Municipal boundaries on their open data site, most of Cleveland's southern border is about 150-200 meters north of Brookpark road (varies in multiple places along the southern border); This may have been a result of later annexations.
@@ -338,5 +350,14 @@ UU - I figured out UU's western border out by georeferencing Plate 33b of Plat B
 https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/379
 (and that's ok to be used for copyright is 1921 on it;) - I did georeference it
 (had only 4 control points to work w/ because of limited references); see KK for details
+
+YY - No idea, couldn't read it; 
+first, let's go 
+and Screenshot from 2019-05-08 13-31-23
+maybe I can find out when that border of YY is exactly at.
+I go to plate 12, of https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/532/rec/7
+but it says to go ; I look for a subplat but I can't find the subplat in that map; TO DO; 
+
+ZZ - relatively confident on the east side and north side of this based on the ;
 
 51A - (not on the volkmann map; but only on the 1968 map) - According to OSM and official boundary from Cuyahoga County, the southern part of this area is NOT currently within the city of Cleveland; perhaps the 1968 map is wrong? 
