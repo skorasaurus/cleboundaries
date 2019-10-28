@@ -69,13 +69,29 @@ Cleveland Police Department's Districts
 [Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/policedistricts/policedistricts-shp.zip) 
 
 ---------------------------------------
+cdc_service_boundaries: 
+
+Community Development Corporations play an important role in the city of 
+Cleveland. They are non-profit organizations that provide services (economic development,
+community organizing, )  
+and public programming in a specific neighborhood or area. 
+These files are geographic service areas for each of the recognized CDCs within
+the city of Cleveland, Ohio, as of the respective years, as 
+noted in the folders. 
+
+Source: Cleveland Neighborhood Progress
+License: Attribution (TO VERIFY)
+
+---------------------------------------
 Cleveland Annexations
 =====================
 
 Geographic polygons that represent the land that the City of Cleveland
 (Ohio) annexed (acquired) in its history. These were mostly derived from
 two secondary sources: what I call: the 1968 map and the Volkmann/1941
-map
+map. 
+
+I claim no copyright to this work although attribution is greatly appreciated. 
 
 The 1968 Map {#1968}
 ------------
@@ -214,7 +230,6 @@ geotra)
     OSM)
 
 ### annexations contents:
-### annexations folder contents:
 
 ### annexations folder contents:
 
@@ -332,9 +347,9 @@ MM - using the 1968 map, I confirmed that MM's western border, was in fact, east
 NN - verify perhaps with a later map, but (043_Hopkins 1912 v2  Plate 40.TIF); has a sub plat 
 with this piece on there; coincidence?! (see DD for more information)
 
-PP - verify the southwestern part of it; specifically the Volkmann map had the border at IRA avenue; but a portion of the southernb 1968 map border was south of ira avenue and was between IRA and Vandalia avenue 
+PP - verify the southwestern part of it; specifically the Volkmann map had the border at IRA avenue; but a portion of the southern 1968 map border was south of ira avenue and was between IRA and Vandalia avenue 
 
-QQ - yes, the 1968 map says the northern boundary is south of barrett; but the 
+QQ - the 1968 map says the northern boundary is south of barrett.  
 
 RR - looks good; matched up eastern border 
 
@@ -351,13 +366,13 @@ https://cplorg.contentdm.oclc.org/digital/collection/p4014coll24/id/379
 (and that's ok to be used for copyright is 1921 on it;) - I did georeference it
 (had only 4 control points to work w/ because of limited references); see KK for details
 
-YY - No idea, couldn't read it; 
-first, let's go 
-and Screenshot from 2019-05-08 13-31-23
-maybe I can find out when that border of YY is exactly at.
-I go to plate 12, of https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/532/rec/7
-but it says to go ; I look for a subplat but I can't find the subplat in that map; TO DO; 
+XX - (for the northern border of this) verified that as of 1920, the southern row of houses on Scottsdale, were considered to be Shaker Heights, and south of that was Warrensville Heights; see Plat 24B of Cuyahoga County, Ohio: Complete in One Volume. Vol. 3 (Hopkins, 1920) (https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/3973/rec/8)
 
-ZZ - relatively confident on the east side and north side of this based on the ;
+YY - No idea, couldn't read it in the 1968 map; 
+Checkout Plat 19 of Cuyahoga County, Ohio: Complete in One Volume. Vol. 3 (Hopkins, 1920)
+https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll24/id/3965/rec/8
+TODO 
+
+ZZ - relatively confident on the east side and north side of this based on the 1968 map; 
 
 51A - (not on the volkmann map; but only on the 1968 map) - According to OSM and official boundary from Cuyahoga County, the southern part of this area is NOT currently within the city of Cleveland; perhaps the 1968 map is wrong? 
