@@ -79,6 +79,10 @@ These files are geographic service areas for each of the recognized CDCs within
 the city of Cleveland, Ohio, as of the respective years, as 
 noted in the folders. 
 
+[Download 2017 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/master/cdc_service_areas/2017/2017_CDC_Service_Areas.zip?raw=true)
+
+[Download 2019 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/master/cdc_service_areas/2019/2019CDCServiceAreas.zip?raw=true)
+
 Source: Cleveland Neighborhood Progress
 License: Attribution (TO VERIFY)
 
