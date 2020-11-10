@@ -87,6 +87,12 @@ Source: Cleveland Neighborhood Progress
 License: Attribution (TO VERIFY)
 
 ---------------------------------------
+voting_precincts: 
+
+These are county-wide for Cuyahoga County, Ohio. 
+
+Source: Cuyahoga County Board of Elections
+---------------------------------------
 Cleveland Annexations
 =====================
 
