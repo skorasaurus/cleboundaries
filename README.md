@@ -18,9 +18,9 @@ Cleveland's current ward boundaries; most recently revised by Cleveland City Cou
 January 2014.
 Available as SHP and geoJSON.
 
-[Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries.geojson) 
+[Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries.geojson) 
  
-[Download the Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-shp.zip) 
+[Download the Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-shp.zip) 
 
 These boundaries were obtained from the City of Cleveland's Planning Department. 
 
@@ -28,9 +28,9 @@ These boundaries were obtained from the City of Cleveland's Planning Department.
 Changes to Cleveland's ward boundaries were first proposed in March 2013 in Cleveland City Council but were later amended
 to what was passed in April 2013 and went into effect January 2014.
 
-[Download the proposed ward boundaries (March 2013) as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-proposed.geojson) 
+[Download the proposed ward boundaries (March 2013) as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-proposed.geojson) 
 
-[Download the proposed ward boundaries (March 2013) as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/wards/2014wardboundaries-proposed-shp.zip) 
+[Download the proposed ward boundaries (March 2013) as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-proposed-shp.zip) 
 
 The changes between the proposed ward boundaries and what went into effect were mostly within ward 3 and ward 14. 
 
@@ -43,7 +43,7 @@ neighborhoods:
 
 Neighborhood boundaries of Cleveland that I derived from a number of sources. See https://skorasaurus.wordpress.com/cleveland-neighborhood-map/ for a background. These are not official and subjective. 
 
-[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/neighborhoods/nhboundaries.geojson)
+[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/neighborhoods/nhboundaries.geojson)
 
 License of neighborhoods, CC BY 4.0
 
@@ -51,9 +51,9 @@ License of neighborhoods, CC BY 4.0
 landmarkdistricts:
 
 Historical Landmark Districts are [areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
-[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/landmarkdistricts/landmarkdistricts.geojson) 
+[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/landmarkdistricts/landmarkdistricts.geojson) 
 
-[Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/landmarkdistricts/landmarkdistricts-shp.zip) 
+[Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/landmarkdistricts/landmarkdistricts-shp.zip) 
 
 
 
@@ -64,9 +64,9 @@ policedistricts:
 
 Cleveland Police Department's Districts
 
-[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/policedistricts/policedistricts.geojson) 
+[Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/policedistricts/policedistricts.geojson) 
 
-[Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/master/policedistricts/policedistricts-shp.zip) 
+[Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/policedistricts/policedistricts-shp.zip) 
 
 ---------------------------------------
 cdc_service_boundaries: 
@@ -79,9 +79,9 @@ These files are geographic service areas for each of the recognized CDCs within
 the city of Cleveland, Ohio, as of the respective years, as 
 noted in the folders. 
 
-[Download 2017 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/master/cdc_service_areas/2017/2017_CDC_Service_Areas.zip?raw=true)
+[Download 2017 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/main/cdc_service_areas/2017/2017_CDC_Service_Areas.zip?raw=true)
 
-[Download 2019 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/master/cdc_service_areas/2019/2019CDCServiceAreas.zip?raw=true)
+[Download 2019 CDC Service Boundaries as SHP](https://github.com/skorasaurus/cleboundaries/blob/main/cdc_service_areas/2019/2019CDCServiceAreas.zip?raw=true)
 
 Source: Cleveland Neighborhood Progress
 License: Attribution (TO VERIFY)
@@ -90,6 +90,8 @@ License: Attribution (TO VERIFY)
 voting_precincts: 
 
 These are county-wide for Cuyahoga County, Ohio. 
+
+[Download , used for the November 3, 2020 elections](https://github.com/skorasaurus/cleboundaries/raw/main/voting_precincts/2020-precincts.geojson)
 
 Source: Cuyahoga County Board of Elections
 ---------------------------------------
