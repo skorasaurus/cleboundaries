@@ -1,12 +1,9 @@
 cleboundaries
 =============
 
+Various City of Cleveland boundary files that aren't publicly available (or easily accessible) although they should be. 
 
-Various City of Cleveland boundary files that aren't publicly available although they should be. 
-
-Inspired by many things including [WNYC's Redistricting map](http://project.wnyc.org/nyc-districting-revised/index.html?lat=40.7370&lon=-73.9220&zoom=12)
-
-For geojson files, you may need to right-click on the URL and choose 'save link as'. 
+To download the GEOJSON Files, you may need to right-click on the URL and choose 'save link as'. 
 
 For data where I didn't specify the license, I don't what know it is (I didn't make the data set), assume your own risk. 
 
@@ -31,17 +28,12 @@ to what was passed in April 2013 and went into effect January 2014.
 [Download the proposed ward boundaries (March 2013) as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-proposed.geojson) 
 
 [Download the proposed ward boundaries (March 2013) as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-proposed-shp.zip) 
-
 The changes between the proposed ward boundaries and what went into effect were mostly within ward 3 and ward 14. 
-
-index.html 
-simple html page using mapbox.js/leaflet that displays the WARDS borders over a mapbox basemap. 
-
 
 ---------------------------------------
 neighborhoods: 
 
-Neighborhood boundaries of Cleveland that I derived from a number of sources. See https://skorasaurus.wordpress.com/cleveland-neighborhood-map/ for a background. These are not official and subjective. 
+Neighborhood boundaries of Cleveland - these are purely subjective from me and are incomplete! Visit https://skorasaurus.wordpress.com/cleveland-neighborhood-map/ for a background. These are not official; the city of Cleveland does not have official boundaries of neighborhoods.  
 
 [Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/neighborhoods/nhboundaries.geojson)
 
@@ -51,6 +43,7 @@ License of neighborhoods, CC BY 4.0
 landmarkdistricts:
 
 Historical Landmark Districts are [areas designated by the City Planning Commission as an area containing any physical features or improvements or both which are of historical, social, cultural, architectural or aesthetic significance to the City of Cleveland, State of Ohio, or the United States, and cause such area to constitute a distinctive section of the City of Cleveland.](http://planning.city.cleveland.oh.us/landmark/cpc.html)
+
 [Download as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/landmarkdistricts/landmarkdistricts.geojson) 
 
 [Download as SHP](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/landmarkdistricts/landmarkdistricts-shp.zip) 
@@ -91,22 +84,25 @@ voting_precincts:
 
 These are county-wide for Cuyahoga County, Ohio. 
 
-[Download , used for the November 3, 2020 elections](https://github.com/skorasaurus/cleboundaries/raw/main/voting_precincts/2020-precincts.geojson)
+[Download as GEOJSON](https://github.com/skorasaurus/cleboundaries/raw/main/voting_precincts/2020-precincts.geojson)
+used for the November 3, 2020 elections
 
 Source: Cuyahoga County Board of Elections
+
 ---------------------------------------
 Cleveland Annexations
 =====================
 
 Geographic polygons that represent the land that the City of Cleveland
-(Ohio) annexed (acquired) in its history. These were mostly derived from
-two secondary sources: what I call: the 1968 map and the Volkmann/1941
+(Ohio) annexed ('acquired') in its history. These were mostly derived from
+two secondary sources, what I call: the 1968 map and the Volkmann/1941
 map. 
 
 I claim no copyright to this work although attribution is greatly appreciated. 
 
 The 1968 Map {#1968}
 ------------
+(metadata from the Cleveland Public Library) 
 
 Title:
 :   Annexations to the city of Cleveland
