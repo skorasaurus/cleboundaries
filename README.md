@@ -3,6 +3,13 @@ cleboundaries
 
 Various City of Cleveland boundary files that aren't publicly available (or easily accessible) although they should be. 
 
+**March 2021 Update**:
+
+The City of Cleveland now has many of these files publicly available at: https://planning.clevelandohio.gov/maps/OpenData.php
+and recommend to obtain them from there. 
+
+The future of this repository will be determined.
+
 To download the GEOJSON Files, you may need to right-click on the URL and choose 'save link as'. 
 
 For data where I didn't specify the license, I don't what know it is (I didn't make the data set), assume your own risk. 
