@@ -1,14 +1,17 @@
 cleboundaries
 =============
 
-Various City of Cleveland boundary files that aren't publicly available (or easily accessible) although they should be. 
+**Update**:
 
-**March 2021 Update**:
+The City of Cleveland now maintains a public, current of numerous boundary files: [https://data.clevelandohio.gov/search?q=boundaries](https://data.clevelandohio.gov/search?q=boundaries)
 
-The City of Cleveland now has many of these files publicly available at: https://planning.clevelandohio.gov/maps/OpenData.php
-and recommend to obtain them from there. 
+When this repository was created and maintained, the City of Cleveland Boundary files when they weren't publicly available or easily accessible. 
 
-The future of this repository will be determined.
+**I had hoped that this repository would become (mostly obsolete) one day and that day has finally come.** 
+
+The only data here that I plan to maintain (which isn't yet publicly available elsewhere) is the historical Cleveland annexation boundaries. 
+
+---------------------------------------
 
 To download the GEOJSON Files, you may need to right-click on the URL and choose 'save link as'. 
 
