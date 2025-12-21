@@ -5,7 +5,7 @@ cleboundaries
 
 The City of Cleveland now maintains a public, current of numerous boundary files: [https://data.clevelandohio.gov/search?q=boundaries](https://data.clevelandohio.gov/search?q=boundaries)
 
-When this repository was created and maintained, the City of Cleveland Boundary files when they weren't publicly available or easily accessible. 
+When this repository was created and maintained, the City of Cleveland Boundary files weren't publicly available or easily accessible.
 
 **I had hoped that this repository would become (mostly obsolete) one day and that day has finally come.** 
 
@@ -21,8 +21,8 @@ contents:
 ---------------------------------------
 Wards/ 
 
-Cleveland's current ward boundaries; most recently revised by Cleveland City Council in April 2013 and went into effect
-January 2014.
+Cleveland's ward boundaries from January 2014 through December 2025. The boundary changes were passed/enacted by Cleveland City Council in April 2013.
+
 Available as SHP and geoJSON.
 
 [Download the Ward Boundaries as geoJSON](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries.geojson) 
@@ -30,7 +30,6 @@ Available as SHP and geoJSON.
 [Download the Ward Boundaries as SHP (shapefile)](https://raw.githubusercontent.com/skorasaurus/cleboundaries/main/wards/2014wardboundaries-shp.zip) 
 
 These boundaries were obtained from the City of Cleveland's Planning Department. 
-
 
 Changes to Cleveland's ward boundaries were first proposed in March 2013 in Cleveland City Council but were later amended
 to what was passed in April 2013 and went into effect January 2014.
